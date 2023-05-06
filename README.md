@@ -24,11 +24,6 @@
 - [Add Forgejo icon](https://github.com/simple-icons/simple-icons/pull/8602) on [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) (4 days ago)
 - [Add new themes](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/3) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (5 days ago)
 - [Add new Clients](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/2) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (5 days ago)
-- [Add two new Tools for Miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/1) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (5 days ago)
-- [Add Mastodon extension](https://github.com/raycast/extensions/pull/6156) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
-- [Add miniflux extension](https://github.com/raycast/extensions/pull/6090) on [raycast/extensions](https://github.com/raycast/extensions) (2 weeks ago)
-- [Add Akkoma extension](https://github.com/raycast/extensions/pull/5978) on [raycast/extensions](https://github.com/raycast/extensions) (2 weeks ago)
-- [Fix the API of Fetch original article](https://github.com/miniflux/website/pull/53) on [miniflux/website](https://github.com/miniflux/website) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
