@@ -7,9 +7,9 @@ An ordinary front-end engineer who spends her days wrestling with CSS and JavaSc
 
 #### 👷 Check out what I'm currently working on
 
-- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - From: https://github.com/AntonioErdeljac/next13-airbnb-clone (2 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (3 days ago)
-- [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) - A curated list of Miniflux themes, clients, and utilities. (5 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (today)
+- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - From: https://github.com/AntonioErdeljac/next13-airbnb-clone (3 days ago)
+- [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) - A curated list of Miniflux themes, clients, and utilities. (6 days ago)
 - [Sevichecc/Full_Stack_Open_Part7](https://github.com/Sevichecc/Full_Stack_Open_Part7) -  (1 week ago)
 - [Sevichecc/Full_Stack_Open_Part6](https://github.com/Sevichecc/Full_Stack_Open_Part6) -  (1 week ago)
 
@@ -23,16 +23,16 @@ An ordinary front-end engineer who spends her days wrestling with CSS and JavaSc
 
 #### 🔨 My recent Pull Requests
 
-- [[ADD] Open original profile button, #204](https://github.com/BDX-town/Mangane/pull/207) on [BDX-town/Mangane](https://github.com/BDX-town/Mangane) (1 day ago)
-- [[FIX] editing post with the original content_type](https://github.com/BDX-town/Mangane/pull/205) on [BDX-town/Mangane](https://github.com/BDX-town/Mangane) (3 days ago)
-- [Add Forgejo icon](https://github.com/simple-icons/simple-icons/pull/8602) on [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) (4 days ago)
-- [Add new themes](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/3) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (5 days ago)
-- [Add new Clients](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/2) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (5 days ago)
+- [[ADD] Open original profile button, #204](https://github.com/BDX-town/Mangane/pull/207) on [BDX-town/Mangane](https://github.com/BDX-town/Mangane) (2 days ago)
+- [[FIX] editing post with the original content_type](https://github.com/BDX-town/Mangane/pull/205) on [BDX-town/Mangane](https://github.com/BDX-town/Mangane) (4 days ago)
+- [Add Forgejo icon](https://github.com/simple-icons/simple-icons/pull/8602) on [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) (5 days ago)
+- [Add new themes](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/3) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (6 days ago)
+- [Add new Clients](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/2) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) ([1.0.2](https://github.com/Sevichecc/pleroma-backup-script/releases/tag/1.0.2), 2 weeks ago) - A backup script for pleroma and akkoma
-- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([dashing-peacock](https://github.com/BDX-town/Mangane/releases/tag/dashing-peacock), 4 weeks ago) - Alternative frontend for Akkoma
+- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([dashing-peacock](https://github.com/BDX-town/Mangane/releases/tag/dashing-peacock), 1 month ago) - Alternative frontend for Akkoma
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.5.0](https://github.com/nuxt-themes/alpine/releases/tag/v1.5.0), 2 months ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [BigCoke233/matcha](https://github.com/BigCoke233/matcha) ([1.2.0](https://github.com/BigCoke233/matcha/releases/tag/1.2.0), 7 months ago) - 🍵 Typecho Theme Matcha：味苦但微甜
 - [Sevichecc/obsidian-image](https://github.com/Sevichecc/obsidian-image) ([2.0](https://github.com/Sevichecc/obsidian-image/releases/tag/2.0), 1 year ago) - 
@@ -47,7 +47,7 @@ An ordinary front-end engineer who spends her days wrestling with CSS and JavaSc
 
 #### 📓 Gists I wrote
 
-- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (4 weeks ago)
+- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (1 month ago)
 - [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (3 months ago)
 - [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (10 months ago)
 - [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (1 year ago)
