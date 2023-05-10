@@ -1,5 +1,5 @@
 
-An ordinary front-end engineer who spends her days wrestling with CSS and JavaScript at work, but dreams about the exciting world of backend development at night. 
+An ordinary front-end developer who spends her days wrestling with CSS and JavaScript at work, but dreams about the exciting world of backend development at night. 
 
 普通のフロントエンドエンジニアです。日中は仕事でCSSとJavaScriptに首をつっこみますが、夜はバックエンド開発の刺激的な世界を夢見ています。
 
