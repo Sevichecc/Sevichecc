@@ -1,5 +1,5 @@
 
-An ordinary front-end developer who spends her days wrestling with CSS and JavaScript at work, but dreams about the exciting world of backend development at night. 
+An ordinary front-end engineer who spends her days wrestling with CSS and JavaScript at work, but dreams about the exciting world of backend development at night. 
 
 普通のフロントエンドエンジニアです。日中は仕事でCSSとJavaScriptに首をつっこみますが、夜はバックエンド開発の刺激的な世界を夢見ています。
 
@@ -8,7 +8,7 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 #### 👷 Check out what I'm currently working on
 
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (today)
-- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) -  (1 day ago)
+- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) -  (today)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (3 days ago)
 - [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) - A curated list of Miniflux themes, clients, and utilities. (1 week ago)
@@ -23,17 +23,17 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 🔨 My recent Pull Requests
 
+- [[FIX] Content type inconsistency when replying without refresh](https://github.com/BDX-town/Mangane/pull/214) on [BDX-town/Mangane](https://github.com/BDX-town/Mangane) (today)
 - [feat: ✨ remark42 component](https://github.com/importantimport/urara/pull/63) on [importantimport/urara](https://github.com/importantimport/urara) (1 day ago)
 - [[ADD] Open original profile button](https://github.com/BDX-town/Mangane/pull/207) on [BDX-town/Mangane](https://github.com/BDX-town/Mangane) (5 days ago)
 - [[FIX] editing post with the original content_type](https://github.com/BDX-town/Mangane/pull/205) on [BDX-town/Mangane](https://github.com/BDX-town/Mangane) (1 week ago)
 - [Add Forgejo icon](https://github.com/simple-icons/simple-icons/pull/8602) on [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) (1 week ago)
-- [Add new themes](https://github.com/MaybeThisIsRu/awesome-miniflux/pull/3) on [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.5.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.5.4), today) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 3 days ago) - Alternative frontend for Akkoma
 - [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) ([1.0.2](https://github.com/Sevichecc/pleroma-backup-script/releases/tag/1.0.2), 3 weeks ago) - A backup script for pleroma and akkoma
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.5.0](https://github.com/nuxt-themes/alpine/releases/tag/v1.5.0), 2 months ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [BigCoke233/matcha](https://github.com/BigCoke233/matcha) ([1.2.0](https://github.com/BigCoke233/matcha/releases/tag/1.2.0), 7 months ago) - 🍵 Typecho Theme Matcha：味苦但微甜
 - [Sevichecc/obsidian-image](https://github.com/Sevichecc/obsidian-image) ([2.0](https://github.com/Sevichecc/obsidian-image/releases/tag/2.0), 1 year ago) - 
 
