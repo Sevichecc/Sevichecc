@@ -7,11 +7,11 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 👷 Check out what I'm currently working on
 
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (today)
 - [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) -  (today)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (3 days ago)
-- [MaybeThisIsRu/awesome-miniflux](https://github.com/MaybeThisIsRu/awesome-miniflux) - A curated list of Miniflux themes, clients, and utilities. (1 week ago)
+- [Sevichecc/raycast-miniflux-extension](https://github.com/Sevichecc/raycast-miniflux-extension) - Raycast extension for Miniflux (today)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 day ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 days ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -23,23 +23,23 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 🔨 My recent Pull Requests
 
-- [[FIX] Content type inconsistency when replying without refresh](https://github.com/BDX-town/Mangane/pull/214) on [BDX-town/Mangane](https://github.com/BDX-town/Mangane) (today)
-- [feat: ✨ remark42 component](https://github.com/importantimport/urara/pull/63) on [importantimport/urara](https://github.com/importantimport/urara) (1 day ago)
-- [[ADD] Open original profile button](https://github.com/BDX-town/Mangane/pull/207) on [BDX-town/Mangane](https://github.com/BDX-town/Mangane) (5 days ago)
-- [[FIX] editing post with the original content_type](https://github.com/BDX-town/Mangane/pull/205) on [BDX-town/Mangane](https://github.com/BDX-town/Mangane) (1 week ago)
-- [Add Forgejo icon](https://github.com/simple-icons/simple-icons/pull/8602) on [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) (1 week ago)
+- [Update miniflux extension](https://github.com/raycast/extensions/pull/6472) on [raycast/extensions](https://github.com/raycast/extensions) (today)
+- [Update miniflux extension](https://github.com/raycast/extensions/pull/6471) on [raycast/extensions](https://github.com/raycast/extensions) (today)
+- [Update miniflux extension](https://github.com/raycast/extensions/pull/6470) on [raycast/extensions](https://github.com/raycast/extensions) (today)
+- [[FIX] Content type inconsistency when replying without refresh](https://github.com/BDX-town/Mangane/pull/214) on [BDX-town/Mangane](https://github.com/BDX-town/Mangane) (1 day ago)
+- [feat: ✨ remark42 component](https://github.com/importantimport/urara/pull/63) on [importantimport/urara](https://github.com/importantimport/urara) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.5.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.5.4), today) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
-- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 3 days ago) - Alternative frontend for Akkoma
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.5.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.5.4), 1 day ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
+- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 4 days ago) - Alternative frontend for Akkoma
 - [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) ([1.0.2](https://github.com/Sevichecc/pleroma-backup-script/releases/tag/1.0.2), 3 weeks ago) - A backup script for pleroma and akkoma
 - [BigCoke233/matcha](https://github.com/BigCoke233/matcha) ([1.2.0](https://github.com/BigCoke233/matcha/releases/tag/1.2.0), 7 months ago) - 🍵 Typecho Theme Matcha：味苦但微甜
 - [Sevichecc/obsidian-image](https://github.com/Sevichecc/obsidian-image) ([2.0](https://github.com/Sevichecc/obsidian-image/releases/tag/2.0), 1 year ago) - 
 
 #### 📜 My recent blog posts
 
-- [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (2 days ago)
+- [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (3 days ago)
 - [最近在做的东西](https://seviche.cc/2023-04-29-recent) (1 week ago)
 - [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (2 months ago)
 - [我在看什么 · 1月](https://seviche.cc/2023-02-03-reading-1) (3 months ago)
