@@ -7,11 +7,11 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 👷 Check out what I'm currently working on
 
-- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js (2 days ago)
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (2 days ago)
-- [Sevichecc/raycast-akkoma-extension](https://github.com/Sevichecc/raycast-akkoma-extension) - Send your post from Raycast to Akkoma and Pleroma (2 days ago)
-- [Sevichecc/raycast-miniflux-extension](https://github.com/Sevichecc/raycast-miniflux-extension) - Raycast extension for Miniflux (2 days ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 days ago)
+- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js (3 days ago)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (3 days ago)
+- [Sevichecc/raycast-akkoma-extension](https://github.com/Sevichecc/raycast-akkoma-extension) - Send your post from Raycast to Akkoma and Pleroma (3 days ago)
+- [Sevichecc/raycast-miniflux-extension](https://github.com/Sevichecc/raycast-miniflux-extension) - Raycast extension for Miniflux (3 days ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -23,23 +23,23 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] Add mastodon extension](https://github.com/raycast/extensions/pull/6479) on [raycast/extensions](https://github.com/raycast/extensions) (3 days ago)
-- [Update akkoma extension](https://github.com/raycast/extensions/pull/6476) on [raycast/extensions](https://github.com/raycast/extensions) (3 days ago)
-- [Update miniflux extension](https://github.com/raycast/extensions/pull/6472) on [raycast/extensions](https://github.com/raycast/extensions) (3 days ago)
-- [Update miniflux extension](https://github.com/raycast/extensions/pull/6471) on [raycast/extensions](https://github.com/raycast/extensions) (3 days ago)
-- [Update miniflux extension](https://github.com/raycast/extensions/pull/6470) on [raycast/extensions](https://github.com/raycast/extensions) (3 days ago)
+- [[WIP] Add mastodon extension](https://github.com/raycast/extensions/pull/6479) on [raycast/extensions](https://github.com/raycast/extensions) (4 days ago)
+- [Update akkoma extension](https://github.com/raycast/extensions/pull/6476) on [raycast/extensions](https://github.com/raycast/extensions) (4 days ago)
+- [Update miniflux extension](https://github.com/raycast/extensions/pull/6472) on [raycast/extensions](https://github.com/raycast/extensions) (4 days ago)
+- [Update miniflux extension](https://github.com/raycast/extensions/pull/6471) on [raycast/extensions](https://github.com/raycast/extensions) (4 days ago)
+- [Update miniflux extension](https://github.com/raycast/extensions/pull/6470) on [raycast/extensions](https://github.com/raycast/extensions) (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.5.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.5.4), 4 days ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.5.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.5.4), 5 days ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 1 week ago) - Alternative frontend for Akkoma
-- [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) ([1.0.2](https://github.com/Sevichecc/pleroma-backup-script/releases/tag/1.0.2), 3 weeks ago) - A backup script for pleroma and akkoma
+- [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) ([1.0.2](https://github.com/Sevichecc/pleroma-backup-script/releases/tag/1.0.2), 4 weeks ago) - A backup script for pleroma and akkoma
 - [BigCoke233/matcha](https://github.com/BigCoke233/matcha) ([1.2.0](https://github.com/BigCoke233/matcha/releases/tag/1.2.0), 7 months ago) - 🍵 Typecho Theme Matcha：味苦但微甜
 - [Sevichecc/obsidian-image](https://github.com/Sevichecc/obsidian-image) ([2.0](https://github.com/Sevichecc/obsidian-image/releases/tag/2.0), 1 year ago) - 
 
 #### 📜 My recent blog posts
 
-- [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (6 days ago)
+- [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (1 week ago)
 - [最近在做的东西](https://seviche.cc/2023-04-29-recent) (2 weeks ago)
 - [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (2 months ago)
 - [我在看什么 · 1月](https://seviche.cc/2023-02-03-reading-1) (3 months ago)
