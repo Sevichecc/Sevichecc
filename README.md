@@ -7,11 +7,11 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 👷 Check out what I'm currently working on
 
-- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js (6 days ago)
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (6 days ago)
-- [Sevichecc/raycast-akkoma-extension](https://github.com/Sevichecc/raycast-akkoma-extension) - Send your post from Raycast to Akkoma and Pleroma (6 days ago)
-- [Sevichecc/raycast-miniflux-extension](https://github.com/Sevichecc/raycast-miniflux-extension) - Raycast extension for Miniflux (6 days ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (6 days ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (today)
+- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js (1 week ago)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (1 week ago)
+- [Sevichecc/raycast-akkoma-extension](https://github.com/Sevichecc/raycast-akkoma-extension) - Send your post from Raycast to Akkoma and Pleroma (1 week ago)
+- [Sevichecc/raycast-miniflux-extension](https://github.com/Sevichecc/raycast-miniflux-extension) - Raycast extension for Miniflux (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.0](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.0), 2 days ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.0](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.0), 3 days ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 1 week ago) - Alternative frontend for Akkoma
 - [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) ([1.0.2](https://github.com/Sevichecc/pleroma-backup-script/releases/tag/1.0.2), 1 month ago) - A backup script for pleroma and akkoma
 - [BigCoke233/matcha](https://github.com/BigCoke233/matcha) ([1.2.0](https://github.com/BigCoke233/matcha/releases/tag/1.2.0), 7 months ago) - 🍵 Typecho Theme Matcha：味苦但微甜
