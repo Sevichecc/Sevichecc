@@ -7,7 +7,7 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 👷 Check out what I'm currently working on
 
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (today)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 day ago)
 - [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js (1 week ago)
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (1 week ago)
 - [Sevichecc/raycast-akkoma-extension](https://github.com/Sevichecc/raycast-akkoma-extension) - Send your post from Raycast to Akkoma and Pleroma (1 week ago)
@@ -23,15 +23,15 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 🔨 My recent Pull Requests
 
+- [Fix zh-CN translation](https://github.com/pcottle/learnGitBranching/pull/1074) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (today)
+- [Fix zh_CN translate](https://github.com/pcottle/learnGitBranching/pull/1073) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (today)
 - [[WIP] Add mastodon extension](https://github.com/raycast/extensions/pull/6479) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
 - [Update akkoma extension](https://github.com/raycast/extensions/pull/6476) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
 - [Update miniflux extension](https://github.com/raycast/extensions/pull/6472) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
-- [Update miniflux extension](https://github.com/raycast/extensions/pull/6471) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
-- [Update miniflux extension](https://github.com/raycast/extensions/pull/6470) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.0](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.0), 3 days ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.0](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.0), 4 days ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 1 week ago) - Alternative frontend for Akkoma
 - [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) ([1.0.2](https://github.com/Sevichecc/pleroma-backup-script/releases/tag/1.0.2), 1 month ago) - A backup script for pleroma and akkoma
 - [BigCoke233/matcha](https://github.com/BigCoke233/matcha) ([1.2.0](https://github.com/BigCoke233/matcha/releases/tag/1.2.0), 7 months ago) - 🍵 Typecho Theme Matcha：味苦但微甜
@@ -39,11 +39,11 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 📜 My recent blog posts
 
+- [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (2 days ago)
 - [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (1 week ago)
-- [最近在做的东西](https://seviche.cc/2023-04-29-recent) (2 weeks ago)
+- [最近在做的东西](https://seviche.cc/2023-04-29-recent) (3 weeks ago)
 - [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (3 months ago)
 - [我在看什么 · 1月](https://seviche.cc/2023-02-03-reading-1) (3 months ago)
-- [CSS · 新拟态玻璃按钮和优雅的文字描边](https://seviche.cc/2023-01-29-css-tricks) (3 months ago)
 
 #### 📓 Gists I wrote
 
