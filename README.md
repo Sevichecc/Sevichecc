@@ -8,25 +8,25 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 #### 👷 Check out what I'm currently working on
 
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (today)
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 days ago)
-- [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! (3 days ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (4 days ago)
-- [Sevichecc/raycast-akkoma-extension](https://github.com/Sevichecc/raycast-akkoma-extension) - Send your post from Raycast to Akkoma and Pleroma (1 week ago)
+- [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) -  (1 day ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (3 days ago)
+- [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! (4 days ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (5 days ago)
 
 #### 🌱 My latest projects
 
+- [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) - 
 - [Sevichecc/Full_Stack_Open_Part7](https://github.com/Sevichecc/Full_Stack_Open_Part7) - 
 - [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon
 - [Sevichecc/Full_Stack_Open_Part6](https://github.com/Sevichecc/Full_Stack_Open_Part6) - 
-- [Sevichecc/raycast-akkoma-extension](https://github.com/Sevichecc/raycast-akkoma-extension) - Send your post from Raycast to Akkoma and Pleroma
 
 #### 🔨 My recent Pull Requests
 
-- [feat:  ✨  Katex supported](https://github.com/importantimport/urara/pull/65) on [importantimport/urara](https://github.com/importantimport/urara) (2 days ago)
-- [Fix incorrent markdown format in zh_TW](https://github.com/pcottle/learnGitBranching/pull/1075) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (3 days ago)
-- [Fix zh-CN translation](https://github.com/pcottle/learnGitBranching/pull/1074) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (3 days ago)
-- [Fix zh_CN translate](https://github.com/pcottle/learnGitBranching/pull/1073) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (3 days ago)
+- [feat:  ✨  Katex supported](https://github.com/importantimport/urara/pull/65) on [importantimport/urara](https://github.com/importantimport/urara) (3 days ago)
+- [Fix incorrent markdown format in zh_TW](https://github.com/pcottle/learnGitBranching/pull/1075) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (4 days ago)
+- [Fix zh-CN translation](https://github.com/pcottle/learnGitBranching/pull/1074) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (4 days ago)
+- [Fix zh_CN translate](https://github.com/pcottle/learnGitBranching/pull/1073) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (4 days ago)
 - [[WIP] Add mastodon extension](https://github.com/raycast/extensions/pull/6479) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -39,7 +39,7 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 📜 My recent blog posts
 
-- [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (5 days ago)
+- [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (6 days ago)
 - [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (2 weeks ago)
 - [最近在做的东西](https://seviche.cc/2023-04-29-recent) (3 weeks ago)
 - [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (3 months ago)
