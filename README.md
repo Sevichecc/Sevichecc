@@ -7,11 +7,11 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 👷 Check out what I'm currently working on
 
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (today)
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (2 days ago)
-- [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) -  (5 days ago)
+- [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) - A backup script for pleroma and akkoma (today)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 day ago)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (3 days ago)
+- [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) -  (6 days ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (1 week ago)
-- [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git! (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -23,7 +23,7 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 🔨 My recent Pull Requests
 
-- [update api method from post to get](https://github.com/neodb-social/neodb/pull/205) on [neodb-social/neodb](https://github.com/neodb-social/neodb) (3 days ago)
+- [update api method from post to get](https://github.com/neodb-social/neodb/pull/205) on [neodb-social/neodb](https://github.com/neodb-social/neodb) (4 days ago)
 - [feat:  ✨  Katex supported](https://github.com/importantimport/urara/pull/65) on [importantimport/urara](https://github.com/importantimport/urara) (1 week ago)
 - [Fix incorrent markdown format in zh_TW](https://github.com/pcottle/learnGitBranching/pull/1075) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
 - [Fix zh-CN translation](https://github.com/pcottle/learnGitBranching/pull/1074) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
@@ -40,8 +40,8 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 #### 📜 My recent blog posts
 
 - [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (1 week ago)
-- [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (2 weeks ago)
-- [最近在做的东西](https://seviche.cc/2023-04-29-recent) (4 weeks ago)
+- [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (3 weeks ago)
+- [最近在做的东西](https://seviche.cc/2023-04-29-recent) (1 month ago)
 - [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (3 months ago)
 - [我在看什么 · 1月](https://seviche.cc/2023-02-03-reading-1) (3 months ago)
 
