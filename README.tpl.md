@@ -10,32 +10,41 @@
 - Blog: [seviche.cc](https://seviche.cc) 
   ( Please feel free to leave your comments :D 
 
-#### 👷 Check out what I'm currently working on
+<details>
+  <summary><b> Learn more about what I doing</b>
+  </summary>
+
+#### 👷 What I'm currently working on
 {{range recentContributions 5 }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
-
+  <br>
 #### 🌱 My latest projects
 {{range recentRepos 5 }}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
+  
 
-<details>
-  <summary><b> 🔨 My recent Pull Requests</b></summary>
-  <br/>
-{{range recentPullRequests 10}}
+#### 🔨 My recent Pull Requests
+
+{{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
-</details>
 
-<details>
-  <summary><b> 🔭 Latest releases I've contributed to</b></summary>
-  <br/>
+
+#### 🔭 Latest releases I've contributed to
 
 {{range recentReleases 5 }}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
+  
+#### 📓 Gists I wrote
+  
+{{range gists 5}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 </details>
+
 
 <details>
   <summary><b> 📜 My recent blog posts</b></summary>
@@ -46,14 +55,6 @@
 {{- end}}
 </details>
 
-<details>
-  <summary><b> 📓 Gists I wrote</b></summary>
-  <br/>
-
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-</details>
 
 ---
 
