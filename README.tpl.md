@@ -3,18 +3,12 @@
 >> 	普通のフロントエンドエンジニアです。日中は仕事でCSSとJavaScriptに首をつっこみますが、夜はバックエンド開発の刺激的な世界を夢見ています。
 >>>	从事前端开发的一般市民。
 
-
-<details>
-  <summary><b> 📮 Contact</b></summary>
-  <br/>
+#### 📮 Contact
 
 - Email: `hi[@]seviche.cc`
 - Matrix: [@seviche:kongwoo.icu](https://matrix.to/#/@seviche:kongwoo.icu)
 - Blog: [seviche.cc](https://seviche.cc) 
   ( Please feel free to leave your comments :D 
-
-
-</details>
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5 }}
