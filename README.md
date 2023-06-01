@@ -12,8 +12,8 @@
 
 
 <details>
-  <summary><b> 🔍 Learn more about what I am doing</b>
-</summary>
+  <summary><b> Learn more about what I doing</b>
+  </summary>
 
 
   
