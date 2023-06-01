@@ -20,10 +20,13 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-#### 🔨 My recent Pull Requests
-{{range recentPullRequests 5}}
+<details>
+  <summary><b> 🔨 My recent Pull Requests</b></summary>
+  <br/>
+{{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
+</details>
 
 <details>
   <summary><b> 🔭 Latest releases I've contributed to</b></summary>
