@@ -12,7 +12,7 @@
 
 
 <details>
-  <summary><b> Learn more about what I doing</b>
+  <summary><b> ✨ Learn more about what I doing</b>
   </summary>
 
 
