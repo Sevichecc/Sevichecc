@@ -3,7 +3,7 @@
 >> 	普通のフロントエンドエンジニアです。日中は仕事でCSSとJavaScriptに首をつっこみますが、夜はバックエンド開発の刺激的な世界を夢見ています。
 >>>	从事前端开发的一般市民。
 
-#### <img src="https://cdn.discordapp.com/emojis/451143444753154058.gif?size=24" alt="status limit" style="width:700px;"> Contact
+####  <img src="https://cdn.discordapp.com/emojis/491270848032800768.png?size=128" style="width:24px;"> Contact  
 
 - Email: `hi[@]seviche.cc`
 - Matrix: [@seviche:kongwoo.icu](https://matrix.to/#/@seviche:kongwoo.icu)
