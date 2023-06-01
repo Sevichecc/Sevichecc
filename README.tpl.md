@@ -14,6 +14,8 @@
   <summary><b> Learn more about what I doing</b>
   </summary>
 
+![](https://blob.cat/emoji/custom/blobcats/ablobcatattention.png)
+  
 #### 👷 What I'm currently working on
 {{range recentContributions 5 }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
