@@ -1,9 +1,20 @@
 
-An ordinary front-end developer who spends her days wrestling with CSS and JavaScript at work, but dreams about the exciting world of backend development at night. 
+> An ordinary front-end developer who spends her days wrestling with CSS and JavaScript at work, but dreams about the exciting world of backend development at night. 
+>> 	普通のフロントエンドエンジニアです。日中は仕事でCSSとJavaScriptに首をつっこみますが、夜はバックエンド開発の刺激的な世界を夢見ています。
+>>>	从事前端开发的一般市民。
 
-普通のフロントエンドエンジニアです。日中は仕事でCSSとJavaScriptに首をつっこみますが、夜はバックエンド開発の刺激的な世界を夢見ています。
 
-从事前端开发的一般市民。
+<details>
+  <summary><b> 📮 Contact</b></summary>
+  <br/>
+
+- Email: `hi[@]seviche.cc`
+- Matrix: [@seviche:kongwoo.icu](https://matrix.to/#/@seviche:kongwoo.icu)
+- Blog: [seviche.cc](https://seviche.cc) 
+  ( Please feel free to leave your comments :D 
+
+
+</details>
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5 }}
@@ -47,7 +58,7 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 {{- end}}
 </details>
 
-### See Also:
-- [Codeberg](https://codeberg.org/Sevichecc)
-- [Forgejo](https://git.kongwoo.icu/seviche)
-- [Codepen](https://codepen.io/sevichee)
+---
+
+####  🖇️ See Also:
+[Codeberg](https://codeberg.org/Sevichecc) | [Forgejo](https://git.kongwoo.icu/seviche) | [Codepen](https://codepen.io/sevichee)
