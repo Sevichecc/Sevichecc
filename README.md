@@ -26,13 +26,21 @@
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon
 - [Sevichecc/Full_Stack_Open_Part6](https://github.com/Sevichecc/Full_Stack_Open_Part6) - 
 
-#### 🔨 My recent Pull Requests
+<details>
+  <summary><b> 🔨 My recent Pull Requests</b></summary>
+  <br/>
 
 - [refactor(prose/checkbox): ♻️ use GFM style &amp; vertical centering](https://github.com/importantimport/urara/pull/66) on [importantimport/urara](https://github.com/importantimport/urara) (2 days ago)
 - [update api method from post to get](https://github.com/neodb-social/neodb/pull/205) on [neodb-social/neodb](https://github.com/neodb-social/neodb) (1 week ago)
 - [feat:  ✨  Katex supported](https://github.com/importantimport/urara/pull/65) on [importantimport/urara](https://github.com/importantimport/urara) (1 week ago)
 - [Fix incorrent markdown format in zh_TW](https://github.com/pcottle/learnGitBranching/pull/1075) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
 - [Fix zh-CN translation](https://github.com/pcottle/learnGitBranching/pull/1074) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
+- [Fix zh_CN translate](https://github.com/pcottle/learnGitBranching/pull/1073) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
+- [Add mastodon extension](https://github.com/raycast/extensions/pull/6479) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
+- [Update akkoma extension](https://github.com/raycast/extensions/pull/6476) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
+- [Update miniflux extension](https://github.com/raycast/extensions/pull/6472) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
+- [Update miniflux extension](https://github.com/raycast/extensions/pull/6471) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
+</details>
 
 <details>
   <summary><b> 🔭 Latest releases I've contributed to</b></summary>
