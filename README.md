@@ -14,6 +14,8 @@
   <summary><b> Learn more about what I doing</b>
   </summary>
 
+![](https://blob.cat/emoji/custom/blobcats/ablobcatattention.png)
+  
 #### 👷 What I'm currently working on
 
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (today)
