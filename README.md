@@ -10,14 +10,18 @@
 - Blog: [seviche.cc](https://seviche.cc) 
   ( Please feel free to leave your comments :D 
 
-#### 👷 Check out what I'm currently working on
+<details>
+  <summary><b> Learn more about what I doing</b>
+  </summary>
+
+#### 👷 What I'm currently working on
 
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (today)
 - [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
 - [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) - A backup script for pleroma and akkoma (3 days ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (4 days ago)
 - [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) -  (1 week ago)
-
+  <br>
 #### 🌱 My latest projects
 
 - [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) - 
@@ -25,26 +29,19 @@
 - [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon
 - [Sevichecc/Full_Stack_Open_Part6](https://github.com/Sevichecc/Full_Stack_Open_Part6) - 
+  
 
-<details>
-  <summary><b> 🔨 My recent Pull Requests</b></summary>
-  <br/>
+#### 🔨 My recent Pull Requests
+
 
 - [refactor(prose/checkbox): ♻️ use GFM style &amp; vertical centering](https://github.com/importantimport/urara/pull/66) on [importantimport/urara](https://github.com/importantimport/urara) (2 days ago)
 - [update api method from post to get](https://github.com/neodb-social/neodb/pull/205) on [neodb-social/neodb](https://github.com/neodb-social/neodb) (1 week ago)
 - [feat:  ✨  Katex supported](https://github.com/importantimport/urara/pull/65) on [importantimport/urara](https://github.com/importantimport/urara) (1 week ago)
 - [Fix incorrent markdown format in zh_TW](https://github.com/pcottle/learnGitBranching/pull/1075) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
 - [Fix zh-CN translation](https://github.com/pcottle/learnGitBranching/pull/1074) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
-- [Fix zh_CN translate](https://github.com/pcottle/learnGitBranching/pull/1073) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
-- [Add mastodon extension](https://github.com/raycast/extensions/pull/6479) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
-- [Update akkoma extension](https://github.com/raycast/extensions/pull/6476) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
-- [Update miniflux extension](https://github.com/raycast/extensions/pull/6472) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
-- [Update miniflux extension](https://github.com/raycast/extensions/pull/6471) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
-</details>
 
-<details>
-  <summary><b> 🔭 Latest releases I've contributed to</b></summary>
-  <br/>
+
+#### 🔭 Latest releases I've contributed to
 
 
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.0](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.0), 2 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
@@ -52,7 +49,17 @@
 - [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) ([1.0.2](https://github.com/Sevichecc/pleroma-backup-script/releases/tag/1.0.2), 1 month ago) - A backup script for pleroma and akkoma
 - [BigCoke233/matcha](https://github.com/BigCoke233/matcha) ([1.2.0](https://github.com/BigCoke233/matcha/releases/tag/1.2.0), 8 months ago) - 🍵 Typecho Theme Matcha：味苦但微甜
 - [Sevichecc/obsidian-image](https://github.com/Sevichecc/obsidian-image) ([2.0](https://github.com/Sevichecc/obsidian-image/releases/tag/2.0), 1 year ago) - 
+  
+#### 📓 Gists I wrote
+  
+
+- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (1 month ago)
+- [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (4 months ago)
+- [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (10 months ago)
+- [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (1 year ago)
+- [](https://gist.github.com/6fe4eeed295c832111fd7fbedc58cc05) (1 year ago)
 </details>
+
 
 <details>
   <summary><b> 📜 My recent blog posts</b></summary>
@@ -66,17 +73,6 @@
 - [我在看什么 · 1月](https://seviche.cc/2023-02-03-reading-1) (3 months ago)
 </details>
 
-<details>
-  <summary><b> 📓 Gists I wrote</b></summary>
-  <br/>
-
-
-- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (1 month ago)
-- [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (4 months ago)
-- [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (10 months ago)
-- [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (1 year ago)
-- [](https://gist.github.com/6fe4eeed295c832111fd7fbedc58cc05) (1 year ago)
-</details>
 
 ---
 
