@@ -7,10 +7,10 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 👷 Check out what I'm currently working on
 
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (1 day ago)
-- [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) - A backup script for pleroma and akkoma (2 days ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 days ago)
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (5 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (2 days ago)
+- [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) - A backup script for pleroma and akkoma (3 days ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (4 days ago)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (6 days ago)
 - [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -23,8 +23,8 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 🔨 My recent Pull Requests
 
-- [refactor(prose/checkbox): ♻️ use GFM style &amp; vertical centering](https://github.com/importantimport/urara/pull/66) on [importantimport/urara](https://github.com/importantimport/urara) (1 day ago)
-- [update api method from post to get](https://github.com/neodb-social/neodb/pull/205) on [neodb-social/neodb](https://github.com/neodb-social/neodb) (6 days ago)
+- [refactor(prose/checkbox): ♻️ use GFM style &amp; vertical centering](https://github.com/importantimport/urara/pull/66) on [importantimport/urara](https://github.com/importantimport/urara) (2 days ago)
+- [update api method from post to get](https://github.com/neodb-social/neodb/pull/205) on [neodb-social/neodb](https://github.com/neodb-social/neodb) (1 week ago)
 - [feat:  ✨  Katex supported](https://github.com/importantimport/urara/pull/65) on [importantimport/urara](https://github.com/importantimport/urara) (1 week ago)
 - [Fix incorrent markdown format in zh_TW](https://github.com/pcottle/learnGitBranching/pull/1075) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
 - [Fix zh-CN translation](https://github.com/pcottle/learnGitBranching/pull/1074) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
@@ -39,7 +39,7 @@ An ordinary front-end developer who spends her days wrestling with CSS and JavaS
 
 #### 📜 My recent blog posts
 
-- [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (1 week ago)
+- [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (2 weeks ago)
 - [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (3 weeks ago)
 - [最近在做的东西](https://seviche.cc/2023-04-29-recent) (1 month ago)
 - [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (3 months ago)
