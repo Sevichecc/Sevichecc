@@ -19,29 +19,29 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (1 day ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (3 days ago)
-- [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) - A backup script for pleroma and akkoma (4 days ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (5 days ago)
-- [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) -  (1 week ago)
+- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Sevichecc/miniflux-injectInjects search results from the Miniflux bookmark service into search pages like google and duckduckgo (today)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (2 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (4 days ago)
+- [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) - A backup script for pleroma and akkoma (5 days ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (6 days ago)
   <br>
 #### 🌱 My latest projects
 
+- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Sevichecc/miniflux-injectInjects search results from the Miniflux bookmark service into search pages like google and duckduckgo
 - [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) - 
 - [Sevichecc/Full_Stack_Open_Part7](https://github.com/Sevichecc/Full_Stack_Open_Part7) - 
 - [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon
-- [Sevichecc/Full_Stack_Open_Part6](https://github.com/Sevichecc/Full_Stack_Open_Part6) - 
   
 
 #### 🔨 My recent Pull Requests
 
 
-- [refactor(prose/checkbox): ♻️ use GFM style &amp; vertical centering](https://github.com/importantimport/urara/pull/66) on [importantimport/urara](https://github.com/importantimport/urara) (3 days ago)
+- [refactor(prose/checkbox): ♻️ use GFM style &amp; vertical centering](https://github.com/importantimport/urara/pull/66) on [importantimport/urara](https://github.com/importantimport/urara) (4 days ago)
 - [update api method from post to get](https://github.com/neodb-social/neodb/pull/205) on [neodb-social/neodb](https://github.com/neodb-social/neodb) (1 week ago)
 - [feat:  ✨  Katex supported](https://github.com/importantimport/urara/pull/65) on [importantimport/urara](https://github.com/importantimport/urara) (1 week ago)
-- [Fix incorrent markdown format in zh_TW](https://github.com/pcottle/learnGitBranching/pull/1075) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
-- [Fix zh-CN translation](https://github.com/pcottle/learnGitBranching/pull/1074) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (1 week ago)
+- [Fix incorrent markdown format in zh_TW](https://github.com/pcottle/learnGitBranching/pull/1075) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (2 weeks ago)
+- [Fix zh-CN translation](https://github.com/pcottle/learnGitBranching/pull/1074) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
@@ -73,7 +73,7 @@
 - [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (3 weeks ago)
 - [最近在做的东西](https://seviche.cc/2023-04-29-recent) (1 month ago)
 - [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (3 months ago)
-- [我在看什么 · 1月](https://seviche.cc/2023-02-03-reading-1) (3 months ago)
+- [我在看什么 · 1月](https://seviche.cc/2023-02-03-reading-1) (4 months ago)
 </details>
 
 
