@@ -19,15 +19,15 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Sevichecc/miniflux-injectInjects search results from the Miniflux bookmark service into search pages like google and duckduckgo (today)
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (2 days ago)
-- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (4 days ago)
-- [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) - A backup script for pleroma and akkoma (5 days ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (6 days ago)
+- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (today)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (3 days ago)
+- [importantimport/urara](https://github.com/importantimport/urara) - 🌸 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [δ](Delta) (5 days ago)
+- [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) - A backup script for pleroma and akkoma (6 days ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 week ago)
   <br>
 #### 🌱 My latest projects
 
-- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Sevichecc/miniflux-injectInjects search results from the Miniflux bookmark service into search pages like google and duckduckgo
+- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
 - [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) - 
 - [Sevichecc/Full_Stack_Open_Part7](https://github.com/Sevichecc/Full_Stack_Open_Part7) - 
 - [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js
@@ -37,28 +37,28 @@
 #### 🔨 My recent Pull Requests
 
 
-- [refactor(prose/checkbox): ♻️ use GFM style &amp; vertical centering](https://github.com/importantimport/urara/pull/66) on [importantimport/urara](https://github.com/importantimport/urara) (4 days ago)
+- [Fix Signature Error and Refactor saveConfiguration](https://github.com/Fivefold/linkding-injector/pull/20) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (1 day ago)
+- [Fix darkmode in Brave Search &amp; Searx](https://github.com/Fivefold/linkding-injector/pull/19) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (1 day ago)
+- [refactor(prose/checkbox): ♻️ use GFM style &amp; vertical centering](https://github.com/importantimport/urara/pull/66) on [importantimport/urara](https://github.com/importantimport/urara) (5 days ago)
 - [update api method from post to get](https://github.com/neodb-social/neodb/pull/205) on [neodb-social/neodb](https://github.com/neodb-social/neodb) (1 week ago)
-- [feat:  ✨  Katex supported](https://github.com/importantimport/urara/pull/65) on [importantimport/urara](https://github.com/importantimport/urara) (1 week ago)
-- [Fix incorrent markdown format in zh_TW](https://github.com/pcottle/learnGitBranching/pull/1075) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (2 weeks ago)
-- [Fix zh-CN translation](https://github.com/pcottle/learnGitBranching/pull/1074) on [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) (2 weeks ago)
+- [feat:  ✨  Katex supported](https://github.com/importantimport/urara/pull/65) on [importantimport/urara](https://github.com/importantimport/urara) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
+- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 1 day ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.0](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.0), 2 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
-- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 3 weeks ago) - Alternative frontend for Akkoma
+- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 4 weeks ago) - Alternative frontend for Akkoma
 - [Sevichecc/pleroma-backup-script](https://github.com/Sevichecc/pleroma-backup-script) ([1.0.2](https://github.com/Sevichecc/pleroma-backup-script/releases/tag/1.0.2), 1 month ago) - A backup script for pleroma and akkoma
 - [BigCoke233/matcha](https://github.com/BigCoke233/matcha) ([1.2.0](https://github.com/BigCoke233/matcha/releases/tag/1.2.0), 8 months ago) - 🍵 Typecho Theme Matcha：味苦但微甜
-- [Sevichecc/obsidian-image](https://github.com/Sevichecc/obsidian-image) ([2.0](https://github.com/Sevichecc/obsidian-image/releases/tag/2.0), 1 year ago) - 
   
 #### 📓 Gists I wrote
   
 
 - [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (1 month ago)
 - [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (4 months ago)
-- [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (10 months ago)
+- [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (11 months ago)
 - [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (1 year ago)
 - [](https://gist.github.com/6fe4eeed295c832111fd7fbedc58cc05) (1 year ago)
 </details>
@@ -81,3 +81,5 @@
 
 ####  🖇️ See Also:
 [Codeberg](https://codeberg.org/Sevichecc) | [Forgejo](https://git.kongwoo.icu/seviche) | [Codepen](https://codepen.io/sevichee)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8LXC9O)
