@@ -20,10 +20,10 @@
 #### 👷 What I'm currently working on
 
 - [Sevichecc/m-oauth](https://github.com/Sevichecc/m-oauth) - Access token generator for Akkoma, Pleroma, Mastodon, Misskey APIs. (today)
-- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo (1 day ago)
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (1 day ago)
-- [Sevichecc/raycast-akkoma-extension](https://github.com/Sevichecc/raycast-akkoma-extension) - Send your post from Raycast to Akkoma and Pleroma (1 day ago)
-- [Sevichecc/raycast-miniflux-extension](https://github.com/Sevichecc/raycast-miniflux-extension) - Raycast extension for Miniflux (1 day ago)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (2 days ago)
+- [Sevichecc/raycast-akkoma-extension](https://github.com/Sevichecc/raycast-akkoma-extension) - Send your post from Raycast to Akkoma and Pleroma (2 days ago)
+- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (2 days ago)
+- [Sevichecc/raycast-miniflux-extension](https://github.com/Sevichecc/raycast-miniflux-extension) - Raycast extension for Miniflux (2 days ago)
   <br>
 #### 🌱 My latest projects
 
@@ -37,9 +37,9 @@
 #### 🔨 My recent Pull Requests
 
 
-- [Fix Signature Error and Refactor saveConfiguration](https://github.com/Fivefold/linkding-injector/pull/20) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (2 days ago)
-- [Fix darkmode in Brave Search &amp; Searx](https://github.com/Fivefold/linkding-injector/pull/19) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (2 days ago)
-- [refactor(prose/checkbox): ♻️ use GFM style &amp; vertical centering](https://github.com/importantimport/urara/pull/66) on [importantimport/urara](https://github.com/importantimport/urara) (6 days ago)
+- [Fix Signature Error and Refactor saveConfiguration](https://github.com/Fivefold/linkding-injector/pull/20) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (3 days ago)
+- [Fix darkmode in Brave Search &amp; Searx](https://github.com/Fivefold/linkding-injector/pull/19) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (3 days ago)
+- [refactor(prose/checkbox): ♻️ use GFM style &amp; vertical centering](https://github.com/importantimport/urara/pull/66) on [importantimport/urara](https://github.com/importantimport/urara) (1 week ago)
 - [update api method from post to get](https://github.com/neodb-social/neodb/pull/205) on [neodb-social/neodb](https://github.com/neodb-social/neodb) (1 week ago)
 - [feat:  ✨  Katex supported](https://github.com/importantimport/urara/pull/65) on [importantimport/urara](https://github.com/importantimport/urara) (2 weeks ago)
 
@@ -47,16 +47,16 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 2 days ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
-- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.2](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.2), 3 days ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
+- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 3 days ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
+- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.2](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.2), 4 days ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.0.0](https://github.com/simple-icons/simple-icons/releases/tag/9.0.0), 1 week ago) - SVG icons for popular brands
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.0](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.0), 2 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
-- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 4 weeks ago) - Alternative frontend for Akkoma
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.0](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.0), 3 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
+- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 1 month ago) - Alternative frontend for Akkoma
   
 #### 📓 Gists I wrote
   
 
-- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (1 month ago)
+- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (2 months ago)
 - [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (4 months ago)
 - [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (11 months ago)
 - [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (1 year ago)
