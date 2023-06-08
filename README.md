@@ -19,16 +19,16 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/m-oauth](https://github.com/Sevichecc/m-oauth) - Access token generator for Akkoma, Pleroma, Mastodon, Misskey APIs. (today)
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (3 days ago)
-- [Sevichecc/raycast-akkoma-extension](https://github.com/Sevichecc/raycast-akkoma-extension) - Send your post from Raycast to Akkoma and Pleroma (3 days ago)
-- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (3 days ago)
-- [Sevichecc/raycast-miniflux-extension](https://github.com/Sevichecc/raycast-miniflux-extension) - Raycast extension for Miniflux (3 days ago)
+- [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs. (today)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (4 days ago)
+- [Sevichecc/raycast-akkoma-extension](https://github.com/Sevichecc/raycast-akkoma-extension) - Send your post from Raycast to Akkoma and Pleroma (4 days ago)
+- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (4 days ago)
+- [Sevichecc/raycast-miniflux-extension](https://github.com/Sevichecc/raycast-miniflux-extension) - Raycast extension for Miniflux (4 days ago)
   <br>
 #### 🌱 My latest projects
 
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
-- [Sevichecc/m-oauth](https://github.com/Sevichecc/m-oauth) - Access token generator for Akkoma, Pleroma, Mastodon, Misskey APIs.
+- [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs.
 - [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) - 
 - [Sevichecc/Full_Stack_Open_Part7](https://github.com/Sevichecc/Full_Stack_Open_Part7) - 
 - [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js
@@ -37,19 +37,19 @@
 #### 🔨 My recent Pull Requests
 
 
-- [Fix Signature Error and Refactor saveConfiguration](https://github.com/Fivefold/linkding-injector/pull/20) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (4 days ago)
-- [Fix darkmode in Brave Search &amp; Searx](https://github.com/Fivefold/linkding-injector/pull/19) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (4 days ago)
+- [Add Akkoma icon](https://github.com/simple-icons/simple-icons/pull/8752) on [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) (today)
+- [Fix Signature Error and Refactor saveConfiguration](https://github.com/Fivefold/linkding-injector/pull/20) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (5 days ago)
+- [Fix darkmode in Brave Search &amp; Searx](https://github.com/Fivefold/linkding-injector/pull/19) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (5 days ago)
 - [refactor(prose/checkbox): ♻️ use GFM style &amp; vertical centering](https://github.com/importantimport/urara/pull/66) on [importantimport/urara](https://github.com/importantimport/urara) (1 week ago)
-- [update api method from post to get](https://github.com/neodb-social/neodb/pull/205) on [neodb-social/neodb](https://github.com/neodb-social/neodb) (1 week ago)
-- [feat:  ✨  Katex supported](https://github.com/importantimport/urara/pull/65) on [importantimport/urara](https://github.com/importantimport/urara) (2 weeks ago)
+- [update api method from post to get](https://github.com/neodb-social/neodb/pull/205) on [neodb-social/neodb](https://github.com/neodb-social/neodb) (2 weeks ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.1](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.1), 1 day ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
-- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 4 days ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
-- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.2](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.2), 5 days ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.1](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.1), 2 days ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
+- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 5 days ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
+- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.2](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.2), 6 days ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.0.0](https://github.com/simple-icons/simple-icons/releases/tag/9.0.0), 1 week ago) - SVG icons for popular brands
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 1 month ago) - Alternative frontend for Akkoma
   
@@ -69,7 +69,7 @@
   <br/>
 
 
-- [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (2 weeks ago)
+- [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (3 weeks ago)
 - [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (1 month ago)
 - [最近在做的东西](https://seviche.cc/2023-04-29-recent) (1 month ago)
 - [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (3 months ago)
