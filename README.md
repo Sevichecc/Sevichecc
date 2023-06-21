@@ -19,10 +19,10 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Leetcode](https://github.com/Sevichecc/Leetcode) - Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub) (today)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 day ago)
-- [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) -  (1 day ago)
-- [Sevichecc/raycast-anki-extension](https://github.com/Sevichecc/raycast-anki-extension) -  (2 days ago)
+- [Sevichecc/Leetcode](https://github.com/Sevichecc/Leetcode) - Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub) (1 day ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 days ago)
+- [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) -  (2 days ago)
+- [Sevichecc/raycast-anki-extension](https://github.com/Sevichecc/raycast-anki-extension) -  (3 days ago)
 - [Sevichecc/Lisp-interpreter-in-TS](https://github.com/Sevichecc/Lisp-interpreter-in-TS) -  (1 week ago)
   <br>
 #### 🌱 My latest projects
@@ -37,7 +37,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [Add neodb extension](https://github.com/raycast/extensions/pull/7113) on [raycast/extensions](https://github.com/raycast/extensions) (5 days ago)
+- [Add neodb extension](https://github.com/raycast/extensions/pull/7113) on [raycast/extensions](https://github.com/raycast/extensions) (6 days ago)
 - [Add Akkoma icon](https://github.com/simple-icons/simple-icons/pull/8752) on [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) (1 week ago)
 - [Fix Signature Error and Refactor saveConfiguration](https://github.com/Fivefold/linkding-injector/pull/20) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (2 weeks ago)
 - [Fix darkmode in Brave Search &amp; Searx](https://github.com/Fivefold/linkding-injector/pull/19) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (2 weeks ago)
@@ -47,7 +47,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.2.0](https://github.com/simple-icons/simple-icons/releases/tag/9.2.0), 2 days ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.2.0](https://github.com/simple-icons/simple-icons/releases/tag/9.2.0), 3 days ago) - SVG icons for popular brands
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.1](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.1), 2 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 2 weeks ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.2](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.2), 2 weeks ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
