@@ -19,11 +19,11 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Leetcode](https://github.com/Sevichecc/Leetcode) - Collection of LeetCode question (1 day ago)
-- [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) -  (6 days ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (6 days ago)
+- [Sevichecc/Leetcode](https://github.com/Sevichecc/Leetcode) - Collection of LeetCode question (today)
+- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) - Alternative frontend for Akkoma (1 day ago)
+- [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) -  (1 week ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 week ago)
 - [Sevichecc/raycast-anki-extension](https://github.com/Sevichecc/raycast-anki-extension) -  (1 week ago)
-- [Sevichecc/Lisp-interpreter-in-TS](https://github.com/Sevichecc/Lisp-interpreter-in-TS) -  (2 weeks ago)
   <br>
 #### 🌱 My latest projects
 
@@ -47,11 +47,11 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.3.0](https://github.com/simple-icons/simple-icons/releases/tag/9.3.0), today) - SVG icons for popular brands
+- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([wondering-wapiti](https://github.com/BDX-town/Mangane/releases/tag/wondering-wapiti), 1 day ago) - Alternative frontend for Akkoma
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.3.0](https://github.com/simple-icons/simple-icons/releases/tag/9.3.0), 1 day ago) - SVG icons for popular brands
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.1](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.1), 2 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 3 weeks ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.2](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.2), 3 weeks ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
-- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hyperactive-sloth](https://github.com/BDX-town/Mangane/releases/tag/hyperactive-sloth), 1 month ago) - Alternative frontend for Akkoma
   
 #### 📓 Gists I wrote
   
