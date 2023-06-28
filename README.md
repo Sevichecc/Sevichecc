@@ -19,10 +19,10 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs. (1 day ago)
-- [Sevichecc/Leetcode](https://github.com/Sevichecc/Leetcode) - Collection of LeetCode question (1 day ago)
-- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) - Alternative frontend for Akkoma (2 days ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 week ago)
+- [Sevichecc/Leetcode](https://github.com/Sevichecc/Leetcode) - Collection of LeetCode question (today)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (today)
+- [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs. (2 days ago)
+- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) - Alternative frontend for Akkoma (3 days ago)
 - [Sevichecc/raycast-neodb-extension](https://github.com/Sevichecc/raycast-neodb-extension) -  (1 week ago)
   <br>
 #### 🌱 My latest projects
@@ -48,7 +48,7 @@
 
 
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([wondering-wapiti](https://github.com/BDX-town/Mangane/releases/tag/wondering-wapiti), 1 day ago) - Alternative frontend for Akkoma
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.3.0](https://github.com/simple-icons/simple-icons/releases/tag/9.3.0), 2 days ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.3.0](https://github.com/simple-icons/simple-icons/releases/tag/9.3.0), 3 days ago) - SVG icons for popular brands
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.1](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.1), 3 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 3 weeks ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.2](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.2), 3 weeks ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
@@ -71,7 +71,7 @@
 
 - [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (1 month ago)
 - [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (1 month ago)
-- [最近在做的东西](https://seviche.cc/2023-04-29-recent) (1 month ago)
+- [最近在做的东西](https://seviche.cc/2023-04-29-recent) (2 months ago)
 - [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (4 months ago)
 - [我在看什么 · 1月](https://seviche.cc/2023-02-03-reading-1) (4 months ago)
 </details>
