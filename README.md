@@ -19,11 +19,11 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Leetcode](https://github.com/Sevichecc/Leetcode) - Collection of LeetCode question (today)
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (3 days ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 days ago)
-- [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs. (5 days ago)
-- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) - Alternative frontend for Akkoma (6 days ago)
+- [Sevichecc/Leetcode](https://github.com/Sevichecc/Leetcode) - Collection of LeetCode question (1 day ago)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (4 days ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (4 days ago)
+- [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs. (6 days ago)
+- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) - Alternative frontend for Akkoma (1 week ago)
   <br>
 #### 🌱 My latest projects
 
@@ -37,7 +37,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [Update mastodon extension](https://github.com/raycast/extensions/pull/7303) on [raycast/extensions](https://github.com/raycast/extensions) (3 days ago)
+- [Update mastodon extension](https://github.com/raycast/extensions/pull/7303) on [raycast/extensions](https://github.com/raycast/extensions) (4 days ago)
 - [Add neodb extension](https://github.com/raycast/extensions/pull/7113) on [raycast/extensions](https://github.com/raycast/extensions) (2 weeks ago)
 - [Add Akkoma icon](https://github.com/simple-icons/simple-icons/pull/8752) on [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) (3 weeks ago)
 - [Fix Signature Error and Refactor saveConfiguration](https://github.com/Fivefold/linkding-injector/pull/20) on [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) (4 weeks ago)
@@ -47,11 +47,11 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([wondering-wapiti](https://github.com/BDX-town/Mangane/releases/tag/wondering-wapiti), 4 days ago) - Alternative frontend for Akkoma
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.3.0](https://github.com/simple-icons/simple-icons/releases/tag/9.3.0), 6 days ago) - SVG icons for popular brands
+- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([wondering-wapiti](https://github.com/BDX-town/Mangane/releases/tag/wondering-wapiti), 5 days ago) - Alternative frontend for Akkoma
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.3.0](https://github.com/simple-icons/simple-icons/releases/tag/9.3.0), 1 week ago) - SVG icons for popular brands
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.1](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.1), 3 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 4 weeks ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
-- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.2](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.2), 4 weeks ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
+- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.2](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.2), 1 month ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
   
 #### 📓 Gists I wrote
   
