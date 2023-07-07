@@ -19,8 +19,8 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Leetcode](https://github.com/Sevichecc/Leetcode) - Collection of LeetCode question (1 day ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 days ago)
+- [Sevichecc/Leetcode](https://github.com/Sevichecc/Leetcode) - Collection of LeetCode question (2 days ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 days ago)
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (1 week ago)
 - [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs. (1 week ago)
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) - Alternative frontend for Akkoma (1 week ago)
@@ -37,8 +37,8 @@
 #### 🔨 My recent Pull Requests
 
 
-- [Update mastodon extension](https://github.com/raycast/extensions/pull/7376) on [raycast/extensions](https://github.com/raycast/extensions) (3 days ago)
-- [Update mastodon extension](https://github.com/raycast/extensions/pull/7375) on [raycast/extensions](https://github.com/raycast/extensions) (3 days ago)
+- [Update mastodon extension](https://github.com/raycast/extensions/pull/7376) on [raycast/extensions](https://github.com/raycast/extensions) (4 days ago)
+- [Update mastodon extension](https://github.com/raycast/extensions/pull/7375) on [raycast/extensions](https://github.com/raycast/extensions) (4 days ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/7303) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
 - [Add neodb extension](https://github.com/raycast/extensions/pull/7113) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
 - [Add Akkoma icon](https://github.com/simple-icons/simple-icons/pull/8752) on [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) (4 weeks ago)
@@ -47,9 +47,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.4.0](https://github.com/simple-icons/simple-icons/releases/tag/9.4.0), 4 days ago) - SVG icons for popular brands
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 1 day ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.4.0](https://github.com/simple-icons/simple-icons/releases/tag/9.4.0), 5 days ago) - SVG icons for popular brands
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([wondering-wapiti](https://github.com/BDX-town/Mangane/releases/tag/wondering-wapiti), 1 week ago) - Alternative frontend for Akkoma
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.1](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.1), 1 month ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 1 month ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.2](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.2), 1 month ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
   
@@ -70,7 +70,7 @@
 
 
 - [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (1 month ago)
-- [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (1 month ago)
+- [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (2 months ago)
 - [最近在做的东西](https://seviche.cc/2023-04-29-recent) (2 months ago)
 - [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (4 months ago)
 - [我在看什么 · 1月](https://seviche.cc/2023-02-03-reading-1) (5 months ago)
