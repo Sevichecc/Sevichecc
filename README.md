@@ -40,14 +40,14 @@
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/7376) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/7375) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/7303) on [raycast/extensions](https://github.com/raycast/extensions) (2 weeks ago)
-- [Add neodb extension](https://github.com/raycast/extensions/pull/7113) on [raycast/extensions](https://github.com/raycast/extensions) (4 weeks ago)
+- [Add neodb extension](https://github.com/raycast/extensions/pull/7113) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
 - [Add Akkoma icon](https://github.com/simple-icons/simple-icons/pull/8752) on [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.5.0](https://github.com/simple-icons/simple-icons/releases/tag/9.5.0), 5 days ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.5.0](https://github.com/simple-icons/simple-icons/releases/tag/9.5.0), 6 days ago) - SVG icons for popular brands
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 1 week ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([wondering-wapiti](https://github.com/BDX-town/Mangane/releases/tag/wondering-wapiti), 2 weeks ago) - Alternative frontend for Akkoma
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 1 month ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
@@ -72,7 +72,7 @@
 - [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (1 month ago)
 - [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (2 months ago)
 - [最近在做的东西](https://seviche.cc/2023-04-29-recent) (2 months ago)
-- [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (4 months ago)
+- [一些最近在用的App](https://seviche.cc/2023-02-15-tools) (5 months ago)
 - [我在看什么 · 1月](https://seviche.cc/2023-02-03-reading-1) (5 months ago)
 </details>
 
