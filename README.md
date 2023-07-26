@@ -21,8 +21,8 @@
 
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (1 week ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 weeks ago)
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (3 weeks ago)
-- [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs. (4 weeks ago)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (4 weeks ago)
+- [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs. (1 month ago)
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) - Alternative frontend for Akkoma (1 month ago)
   <br>
 #### 🌱 My latest projects
@@ -40,14 +40,14 @@
 - [Add forgejo](https://github.com/Ileriayo/markdown-badges/pull/584) on [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) (1 week ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/7376) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/7375) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
-- [Update mastodon extension](https://github.com/raycast/extensions/pull/7303) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
+- [Update mastodon extension](https://github.com/raycast/extensions/pull/7303) on [raycast/extensions](https://github.com/raycast/extensions) (4 weeks ago)
 - [Add neodb extension](https://github.com/raycast/extensions/pull/7113) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.7.0](https://github.com/simple-icons/simple-icons/releases/tag/9.7.0), 2 days ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.7.0](https://github.com/simple-icons/simple-icons/releases/tag/9.7.0), 3 days ago) - SVG icons for popular brands
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 2 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([wondering-wapiti](https://github.com/BDX-town/Mangane/releases/tag/wondering-wapiti), 4 weeks ago) - Alternative frontend for Akkoma
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 1 month ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
