@@ -19,9 +19,9 @@
   
 #### 👷 What I'm currently working on
 
-- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (3 days ago)
+- [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (4 days ago)
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (1 week ago)
-- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects. (1 week ago)
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects. (2 weeks ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 weeks ago)
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (1 month ago)
   <br>
@@ -37,8 +37,8 @@
 #### 🔨 My recent Pull Requests
 
 
-- [[zh-cn] fix typo](https://github.com/mdn/translated-content/pull/14618) on [mdn/translated-content](https://github.com/mdn/translated-content) (3 days ago)
-- [Add forgejo](https://github.com/Ileriayo/markdown-badges/pull/584) on [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) (1 week ago)
+- [[zh-cn] fix typo](https://github.com/mdn/translated-content/pull/14618) on [mdn/translated-content](https://github.com/mdn/translated-content) (4 days ago)
+- [Add forgejo](https://github.com/Ileriayo/markdown-badges/pull/584) on [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) (2 weeks ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/7376) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/7375) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/7303) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
@@ -47,7 +47,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.7.0](https://github.com/simple-icons/simple-icons/releases/tag/9.7.0), 6 days ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.8.0](https://github.com/simple-icons/simple-icons/releases/tag/9.8.0), today) - SVG icons for popular brands
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 3 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([wondering-wapiti](https://github.com/BDX-town/Mangane/releases/tag/wondering-wapiti), 1 month ago) - Alternative frontend for Akkoma
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 1 month ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
