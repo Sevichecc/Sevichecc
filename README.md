@@ -19,8 +19,8 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (today)
-- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js (1 day ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 days ago)
+- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js (3 days ago)
 - [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (1 week ago)
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (2 weeks ago)
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects. (2 weeks ago)
@@ -47,8 +47,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.8.0](https://github.com/simple-icons/simple-icons/releases/tag/9.8.0), 3 days ago) - SVG icons for popular brands
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 3 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.8.0](https://github.com/simple-icons/simple-icons/releases/tag/9.8.0), 5 days ago) - SVG icons for popular brands
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 4 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([wondering-wapiti](https://github.com/BDX-town/Mangane/releases/tag/wondering-wapiti), 1 month ago) - Alternative frontend for Akkoma
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 2 months ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.2](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.2), 2 months ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
