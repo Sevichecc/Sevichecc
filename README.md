@@ -19,8 +19,8 @@
   
 #### 👷 What I'm currently working on
 
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (today)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects. (3 days ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 day ago)
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects. (4 days ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 week ago)
 - [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js (1 week ago)
 - [mdn/translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs (2 weeks ago)
@@ -37,8 +37,8 @@
 #### 🔨 My recent Pull Requests
 
 
-- [Update neodb extension](https://github.com/raycast/extensions/pull/7826) on [raycast/extensions](https://github.com/raycast/extensions) (2 days ago)
-- [Fix category of currency-florin.svg](https://github.com/tabler/tabler-icons/pull/761) on [tabler/tabler-icons](https://github.com/tabler/tabler-icons) (4 days ago)
+- [Update neodb extension](https://github.com/raycast/extensions/pull/7826) on [raycast/extensions](https://github.com/raycast/extensions) (3 days ago)
+- [Fix category of currency-florin.svg](https://github.com/tabler/tabler-icons/pull/761) on [tabler/tabler-icons](https://github.com/tabler/tabler-icons) (5 days ago)
 - [[zh-cn] fix typo](https://github.com/mdn/translated-content/pull/14618) on [mdn/translated-content](https://github.com/mdn/translated-content) (2 weeks ago)
 - [Add forgejo](https://github.com/Ileriayo/markdown-badges/pull/584) on [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) (3 weeks ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/7376) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
@@ -47,7 +47,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.9.0](https://github.com/simple-icons/simple-icons/releases/tag/9.9.0), 3 days ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.9.0](https://github.com/simple-icons/simple-icons/releases/tag/9.9.0), 4 days ago) - SVG icons for popular brands
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.30.0](https://github.com/tabler/tabler-icons/releases/tag/v2.30.0), 1 week ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 1 month ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([wondering-wapiti](https://github.com/BDX-town/Mangane/releases/tag/wondering-wapiti), 1 month ago) - Alternative frontend for Akkoma
