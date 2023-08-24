@@ -47,8 +47,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.32.0](https://github.com/tabler/tabler-icons/releases/tag/v2.32.0), 2 days ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.11.0](https://github.com/simple-icons/simple-icons/releases/tag/9.11.0), 3 days ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.32.0](https://github.com/tabler/tabler-icons/releases/tag/v2.32.0), 3 days ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.11.0](https://github.com/simple-icons/simple-icons/releases/tag/9.11.0), 4 days ago) - SVG icons for popular brands
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hardcore-hedgehog](https://github.com/BDX-town/Mangane/releases/tag/hardcore-hedgehog), 1 week ago) - Alternative frontend for Akkoma
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 1 month ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 2 months ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
