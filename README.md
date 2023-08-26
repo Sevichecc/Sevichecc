@@ -19,7 +19,7 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 day ago)
+- [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (2 days ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 week ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 weeks ago)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects. (2 weeks ago)
@@ -38,7 +38,7 @@
 
 
 - [Update neodb extension](https://github.com/raycast/extensions/pull/7826) on [raycast/extensions](https://github.com/raycast/extensions) (2 weeks ago)
-- [Fix category of currency-florin.svg](https://github.com/tabler/tabler-icons/pull/761) on [tabler/tabler-icons](https://github.com/tabler/tabler-icons) (2 weeks ago)
+- [Fix category of currency-florin.svg](https://github.com/tabler/tabler-icons/pull/761) on [tabler/tabler-icons](https://github.com/tabler/tabler-icons) (3 weeks ago)
 - [[zh-cn] fix typo](https://github.com/mdn/translated-content/pull/14618) on [mdn/translated-content](https://github.com/mdn/translated-content) (1 month ago)
 - [Add forgejo](https://github.com/Ileriayo/markdown-badges/pull/584) on [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) (1 month ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/7376) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
@@ -47,8 +47,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.32.0](https://github.com/tabler/tabler-icons/releases/tag/v2.32.0), 4 days ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.11.0](https://github.com/simple-icons/simple-icons/releases/tag/9.11.0), 5 days ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.32.0](https://github.com/tabler/tabler-icons/releases/tag/v2.32.0), 5 days ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.11.0](https://github.com/simple-icons/simple-icons/releases/tag/9.11.0), 6 days ago) - SVG icons for popular brands
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hardcore-hedgehog](https://github.com/BDX-town/Mangane/releases/tag/hardcore-hedgehog), 1 week ago) - Alternative frontend for Akkoma
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 1 month ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 2 months ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
