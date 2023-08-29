@@ -19,11 +19,11 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (today)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 day ago)
+- [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 day ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 days ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (2 weeks ago)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects. (3 weeks ago)
-- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js (3 weeks ago)
+- [Sevichecc/Airbnb-Clone](https://github.com/Sevichecc/Airbnb-Clone) - A practice project for learning Next.js (4 weeks ago)
   <br>
 #### 🌱 My latest projects
 
@@ -47,7 +47,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.12.0](https://github.com/simple-icons/simple-icons/releases/tag/9.12.0), 1 day ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.12.0](https://github.com/simple-icons/simple-icons/releases/tag/9.12.0), 2 days ago) - SVG icons for popular brands
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.32.0](https://github.com/tabler/tabler-icons/releases/tag/v2.32.0), 1 week ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hardcore-hedgehog](https://github.com/BDX-town/Mangane/releases/tag/hardcore-hedgehog), 1 week ago) - Alternative frontend for Akkoma
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 1 month ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
@@ -69,7 +69,7 @@
   <br/>
 
 
-- [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (1 day ago)
+- [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (2 days ago)
 - [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (3 months ago)
 - [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (3 months ago)
 - [最近在做的东西](https://seviche.cc/2023-04-29-recent) (4 months ago)
