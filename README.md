@@ -19,9 +19,9 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (1 day ago)
-- [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (5 days ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (5 days ago)
+- [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (2 days ago)
+- [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (6 days ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (6 days ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (4 weeks ago)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects. (1 month ago)
   <br>
@@ -47,8 +47,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.33.0](https://github.com/tabler/tabler-icons/releases/tag/v2.33.0), 1 day ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.13.0](https://github.com/simple-icons/simple-icons/releases/tag/9.13.0), 3 days ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.33.0](https://github.com/tabler/tabler-icons/releases/tag/v2.33.0), 2 days ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.13.0](https://github.com/simple-icons/simple-icons/releases/tag/9.13.0), 4 days ago) - SVG icons for popular brands
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hardcore-hedgehog](https://github.com/BDX-town/Mangane/releases/tag/hardcore-hedgehog), 3 weeks ago) - Alternative frontend for Akkoma
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 2 months ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.2](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.2), 3 months ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
@@ -69,7 +69,7 @@
   <br/>
 
 
-- [Python 初学笔记](https://seviche.cc/2023-09-04-python) (2 days ago)
+- [Python 初学笔记](https://seviche.cc/2023-09-04-python) (3 days ago)
 - [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (1 week ago)
 - [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (3 months ago)
 - [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (4 months ago)
