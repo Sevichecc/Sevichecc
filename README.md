@@ -19,10 +19,10 @@
   
 #### 👷 What I'm currently working on
 
-- [nuxt/ui](https://github.com/nuxt/ui) - Fully styled and customizable components for Nuxt. (3 days ago)
-- [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (5 days ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 day ago)
+- [nuxt/ui](https://github.com/nuxt/ui) - Fully styled and customizable components for Nuxt. (4 days ago)
+- [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (6 days ago)
 - [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 week ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 week ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 month ago)
   <br>
 #### 🌱 My latest projects
@@ -37,7 +37,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat(Form): add valibot supprt](https://github.com/nuxt/ui/pull/615) on [nuxt/ui](https://github.com/nuxt/ui) (3 days ago)
+- [feat(Form): add valibot supprt](https://github.com/nuxt/ui/pull/615) on [nuxt/ui](https://github.com/nuxt/ui) (4 days ago)
 - [Update neodb extension](https://github.com/raycast/extensions/pull/7826) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
 - [Fix category of currency-florin.svg](https://github.com/tabler/tabler-icons/pull/761) on [tabler/tabler-icons](https://github.com/tabler/tabler-icons) (1 month ago)
 - [[zh-cn] fix typo](https://github.com/mdn/translated-content/pull/14618) on [mdn/translated-content](https://github.com/mdn/translated-content) (1 month ago)
@@ -47,9 +47,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.14.0](https://github.com/simple-icons/simple-icons/releases/tag/9.14.0), today) - SVG icons for popular brands
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.8.1](https://github.com/nuxt/ui/releases/tag/v2.8.1), 1 day ago) - Fully styled and customizable components for Nuxt.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.34.0](https://github.com/tabler/tabler-icons/releases/tag/v2.34.0), 3 days ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.14.0](https://github.com/simple-icons/simple-icons/releases/tag/9.14.0), 1 day ago) - SVG icons for popular brands
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.8.1](https://github.com/nuxt/ui/releases/tag/v2.8.1), 2 days ago) - Fully styled and customizable components for Nuxt.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.34.0](https://github.com/tabler/tabler-icons/releases/tag/v2.34.0), 4 days ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hardcore-hedgehog](https://github.com/BDX-town/Mangane/releases/tag/hardcore-hedgehog), 3 weeks ago) - Alternative frontend for Akkoma
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.2](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.2), 2 months ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
   
@@ -69,11 +69,11 @@
   <br/>
 
 
-- [Python 初学笔记](https://seviche.cc/2023-09-04-python) (6 days ago)
+- [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (1 day ago)
+- [Python 初学笔记](https://seviche.cc/2023-09-04-python) (1 week ago)
 - [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (2 weeks ago)
 - [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (3 months ago)
 - [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (4 months ago)
-- [最近在做的东西](https://seviche.cc/2023-04-29-recent) (4 months ago)
 </details>
 
 
