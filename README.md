@@ -21,7 +21,7 @@
 
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 week ago)
 - [nuxt/ui](https://github.com/nuxt/ui) - Fully styled and customizable components for Nuxt. (1 week ago)
-- [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (1 week ago)
+- [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (2 weeks ago)
 - [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (2 weeks ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 month ago)
   <br>
@@ -47,7 +47,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.15.0](https://github.com/simple-icons/simple-icons/releases/tag/9.15.0), 1 day ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.15.0](https://github.com/simple-icons/simple-icons/releases/tag/9.15.0), 2 days ago) - SVG icons for popular brands
 - [nuxt/ui](https://github.com/nuxt/ui) ([v2.8.1](https://github.com/nuxt/ui/releases/tag/v2.8.1), 1 week ago) - Fully styled and customizable components for Nuxt.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.34.0](https://github.com/tabler/tabler-icons/releases/tag/v2.34.0), 1 week ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hardcore-hedgehog](https://github.com/BDX-town/Mangane/releases/tag/hardcore-hedgehog), 1 month ago) - Alternative frontend for Akkoma
