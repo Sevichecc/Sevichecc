@@ -47,9 +47,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [BDX-town/Akkoma](https://github.com/BDX-town/Akkoma) ([2023-09-24](https://github.com/BDX-town/Akkoma/releases/tag/2023-09-24), 2 days ago) - Code source de l&#39;instance Pleroma a portée locale https://bdx.town
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.0](https://github.com/simple-icons/simple-icons/releases/tag/9.16.0), 2 days ago) - SVG icons for popular brands
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.35.0](https://github.com/tabler/tabler-icons/releases/tag/v2.35.0), 4 days ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [BDX-town/Akkoma](https://github.com/BDX-town/Akkoma) ([2023-09-24](https://github.com/BDX-town/Akkoma/releases/tag/2023-09-24), 3 days ago) - Code source de l&#39;instance Pleroma a portée locale https://bdx.town
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.0](https://github.com/simple-icons/simple-icons/releases/tag/9.16.0), 3 days ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.35.0](https://github.com/tabler/tabler-icons/releases/tag/v2.35.0), 5 days ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [nuxt/ui](https://github.com/nuxt/ui) ([v2.8.1](https://github.com/nuxt/ui/releases/tag/v2.8.1), 2 weeks ago) - Fully styled and customizable components for Nuxt.
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([hardcore-hedgehog](https://github.com/BDX-town/Mangane/releases/tag/hardcore-hedgehog), 1 month ago) - Alternative frontend for Akkoma
   
@@ -57,7 +57,7 @@
   
 
 - [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (5 months ago)
-- [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (7 months ago)
+- [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (8 months ago)
 - [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (1 year ago)
 - [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (1 year ago)
 - [](https://gist.github.com/6fe4eeed295c832111fd7fbedc58cc05) (2 years ago)
