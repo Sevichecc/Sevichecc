@@ -22,7 +22,7 @@
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 weeks ago)
 - [nuxt/ui](https://github.com/nuxt/ui) - Fully styled and customizable components for Nuxt. (3 weeks ago)
 - [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (3 weeks ago)
-- [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (3 weeks ago)
+- [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (4 weeks ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 month ago)
   <br>
 #### 🌱 My latest projects
@@ -47,10 +47,10 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 1 day ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.36.0](https://github.com/tabler/tabler-icons/releases/tag/v2.36.0), 1 day ago) - A set of over 4600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [BDX-town/Akkoma](https://github.com/BDX-town/Akkoma) ([2023-09-24](https://github.com/BDX-town/Akkoma/releases/tag/2023-09-24), 4 days ago) - Code source de l&#39;instance Pleroma a portée locale https://bdx.town
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.0](https://github.com/simple-icons/simple-icons/releases/tag/9.16.0), 4 days ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.37.0](https://github.com/tabler/tabler-icons/releases/tag/v2.37.0), 1 day ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 2 days ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
+- [BDX-town/Akkoma](https://github.com/BDX-town/Akkoma) ([2023-09-24](https://github.com/BDX-town/Akkoma/releases/tag/2023-09-24), 5 days ago) - Code source de l&#39;instance Pleroma a portée locale https://bdx.town
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.0](https://github.com/simple-icons/simple-icons/releases/tag/9.16.0), 5 days ago) - SVG icons for popular brands
 - [nuxt/ui](https://github.com/nuxt/ui) ([v2.8.1](https://github.com/nuxt/ui/releases/tag/v2.8.1), 2 weeks ago) - Fully styled and customizable components for Nuxt.
   
 #### 📓 Gists I wrote
