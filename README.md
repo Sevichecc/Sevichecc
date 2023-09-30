@@ -47,11 +47,11 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.37.0](https://github.com/tabler/tabler-icons/releases/tag/v2.37.0), 1 day ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 2 days ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
-- [BDX-town/Akkoma](https://github.com/BDX-town/Akkoma) ([2023-09-24](https://github.com/BDX-town/Akkoma/releases/tag/2023-09-24), 5 days ago) - Code source de l&#39;instance Pleroma a portée locale https://bdx.town
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.0](https://github.com/simple-icons/simple-icons/releases/tag/9.16.0), 5 days ago) - SVG icons for popular brands
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.8.1](https://github.com/nuxt/ui/releases/tag/v2.8.1), 2 weeks ago) - Fully styled and customizable components for Nuxt.
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.3](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.3), 1 day ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.37.0](https://github.com/tabler/tabler-icons/releases/tag/v2.37.0), 2 days ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 3 days ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
+- [BDX-town/Akkoma](https://github.com/BDX-town/Akkoma) ([2023-09-24](https://github.com/BDX-town/Akkoma/releases/tag/2023-09-24), 6 days ago) - Code source de l&#39;instance Pleroma a portée locale https://bdx.town
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.0](https://github.com/simple-icons/simple-icons/releases/tag/9.16.0), 6 days ago) - SVG icons for popular brands
   
 #### 📓 Gists I wrote
   
