@@ -21,7 +21,7 @@
 
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 weeks ago)
 - [nuxt/ui](https://github.com/nuxt/ui) - Fully styled and customizable components for Nuxt. (3 weeks ago)
-- [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (3 weeks ago)
+- [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (4 weeks ago)
 - [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 month ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 month ago)
   <br>
@@ -47,11 +47,11 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.1](https://github.com/simple-icons/simple-icons/releases/tag/9.16.1), 1 day ago) - SVG icons for popular brands
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.38.0](https://github.com/tabler/tabler-icons/releases/tag/v2.38.0), 2 days ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.3](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.3), 3 days ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
-- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 5 days ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
-- [BDX-town/Akkoma](https://github.com/BDX-town/Akkoma) ([2023-09-24](https://github.com/BDX-town/Akkoma/releases/tag/2023-09-24), 1 week ago) - Code source de l&#39;instance Pleroma a portée locale https://bdx.town
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.9.0](https://github.com/nuxt/ui/releases/tag/v2.9.0), 1 day ago) - Fully styled and customizable components for Nuxt.
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.4), 1 day ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.1](https://github.com/simple-icons/simple-icons/releases/tag/9.16.1), 2 days ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.38.0](https://github.com/tabler/tabler-icons/releases/tag/v2.38.0), 3 days ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 6 days ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
   
 #### 📓 Gists I wrote
   
@@ -69,11 +69,11 @@
   <br/>
 
 
+- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (today)
 - [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (3 weeks ago)
 - [Python 初学笔记](https://seviche.cc/2023-09-04-python) (4 weeks ago)
 - [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (1 month ago)
 - [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (4 months ago)
-- [我在看什么 · 2-4月](https://seviche.cc/2023-04-29-readings) (4 months ago)
 </details>
 
 
