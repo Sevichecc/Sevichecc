@@ -39,7 +39,7 @@
 
 - [feat(Form): add valibot supprt](https://github.com/nuxt/ui/pull/615) on [nuxt/ui](https://github.com/nuxt/ui) (3 weeks ago)
 - [Update neodb extension](https://github.com/raycast/extensions/pull/7826) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
-- [Fix category of currency-florin.svg](https://github.com/tabler/tabler-icons/pull/761) on [tabler/tabler-icons](https://github.com/tabler/tabler-icons) (1 month ago)
+- [Fix category of currency-florin.svg](https://github.com/tabler/tabler-icons/pull/761) on [tabler/tabler-icons](https://github.com/tabler/tabler-icons) (2 months ago)
 - [[zh-cn] fix typo](https://github.com/mdn/translated-content/pull/14618) on [mdn/translated-content](https://github.com/mdn/translated-content) (2 months ago)
 - [Add forgejo](https://github.com/Ileriayo/markdown-badges/pull/584) on [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) (2 months ago)
 
@@ -47,16 +47,16 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.9.0](https://github.com/nuxt/ui/releases/tag/v2.9.0), 1 day ago) - Fully styled and customizable components for Nuxt.
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.4), 1 day ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.1](https://github.com/simple-icons/simple-icons/releases/tag/9.16.1), 2 days ago) - SVG icons for popular brands
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.38.0](https://github.com/tabler/tabler-icons/releases/tag/v2.38.0), 3 days ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 6 days ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.9.0](https://github.com/nuxt/ui/releases/tag/v2.9.0), 2 days ago) - Fully styled and customizable components for Nuxt.
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.4), 2 days ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.16.1](https://github.com/simple-icons/simple-icons/releases/tag/9.16.1), 3 days ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.38.0](https://github.com/tabler/tabler-icons/releases/tag/v2.38.0), 4 days ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 1 week ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
   
 #### 📓 Gists I wrote
   
 
-- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (5 months ago)
+- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (6 months ago)
 - [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (8 months ago)
 - [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (1 year ago)
 - [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (1 year ago)
@@ -69,9 +69,9 @@
   <br/>
 
 
-- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (today)
+- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (1 day ago)
 - [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (3 weeks ago)
-- [Python 初学笔记](https://seviche.cc/2023-09-04-python) (4 weeks ago)
+- [Python 初学笔记](https://seviche.cc/2023-09-04-python) (1 month ago)
 - [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (1 month ago)
 - [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (4 months ago)
 </details>
