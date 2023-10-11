@@ -47,11 +47,11 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.17.0](https://github.com/simple-icons/simple-icons/releases/tag/9.17.0), 2 days ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.39.0](https://github.com/tabler/tabler-icons/releases/tag/v2.39.0), 1 day ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.17.0](https://github.com/simple-icons/simple-icons/releases/tag/9.17.0), 3 days ago) - SVG icons for popular brands
 - [nuxt/ui](https://github.com/nuxt/ui) ([v2.9.0](https://github.com/nuxt/ui/releases/tag/v2.9.0), 1 week ago) - Fully styled and customizable components for Nuxt.
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.4), 1 week ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.38.0](https://github.com/tabler/tabler-icons/releases/tag/v2.38.0), 1 week ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 1 week ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
+- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 2 weeks ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
   
 #### 📓 Gists I wrote
   
