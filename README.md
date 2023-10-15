@@ -47,8 +47,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.39.0](https://github.com/tabler/tabler-icons/releases/tag/v2.39.0), 4 days ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.17.0](https://github.com/simple-icons/simple-icons/releases/tag/9.17.0), 6 days ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.39.0](https://github.com/tabler/tabler-icons/releases/tag/v2.39.0), 5 days ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.17.0](https://github.com/simple-icons/simple-icons/releases/tag/9.17.0), 1 week ago) - SVG icons for popular brands
 - [nuxt/ui](https://github.com/nuxt/ui) ([v2.9.0](https://github.com/nuxt/ui/releases/tag/v2.9.0), 1 week ago) - Fully styled and customizable components for Nuxt.
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.4), 1 week ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 2 weeks ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
@@ -73,7 +73,7 @@
 - [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (1 month ago)
 - [Python 初学笔记](https://seviche.cc/2023-09-04-python) (1 month ago)
 - [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (1 month ago)
-- [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (4 months ago)
+- [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (5 months ago)
 </details>
 
 
