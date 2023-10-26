@@ -47,7 +47,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.19.0](https://github.com/simple-icons/simple-icons/releases/tag/9.19.0), 3 days ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.19.0](https://github.com/simple-icons/simple-icons/releases/tag/9.19.0), 4 days ago) - SVG icons for popular brands
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.39.0](https://github.com/tabler/tabler-icons/releases/tag/v2.39.0), 2 weeks ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [nuxt/ui](https://github.com/nuxt/ui) ([v2.9.0](https://github.com/nuxt/ui/releases/tag/v2.9.0), 3 weeks ago) - Fully styled and customizable components for Nuxt.
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.4), 3 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
@@ -72,7 +72,7 @@
 - [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (3 weeks ago)
 - [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (1 month ago)
 - [Python 初学笔记](https://seviche.cc/2023-09-04-python) (1 month ago)
-- [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (1 month ago)
+- [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (2 months ago)
 - [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (5 months ago)
 </details>
 
