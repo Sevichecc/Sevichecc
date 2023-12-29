@@ -19,11 +19,11 @@
   
 #### 👷 What I'm currently working on
 
-- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 weeks ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 month ago)
-- [nuxt/ui](https://github.com/nuxt/ui) - Fully styled and customizable components for Nuxt. (1 month ago)
-- [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (1 month ago)
-- [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 month ago)
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system with web interface (today)
+- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (1 month ago)
+- [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 months ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 months ago)
+- [nuxt/ui](https://github.com/nuxt/ui) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS. (3 months ago)
   <br>
 #### 🌱 My latest projects
 
@@ -37,27 +37,27 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: ✨ add chip and tag](https://github.com/importantimport/shiraha/pull/22) on [importantimport/shiraha](https://github.com/importantimport/shiraha) (2 weeks ago)
-- [feat(Form): add valibot supprt](https://github.com/nuxt/ui/pull/615) on [nuxt/ui](https://github.com/nuxt/ui) (1 month ago)
-- [Update neodb extension](https://github.com/raycast/extensions/pull/7826) on [raycast/extensions](https://github.com/raycast/extensions) (2 months ago)
-- [Fix category of currency-florin.svg](https://github.com/tabler/tabler-icons/pull/761) on [tabler/tabler-icons](https://github.com/tabler/tabler-icons) (2 months ago)
-- [[zh-cn] fix typo](https://github.com/mdn/translated-content/pull/14618) on [mdn/translated-content](https://github.com/mdn/translated-content) (3 months ago)
+- [Add i18n support and  translation for zh-CN](https://github.com/evroon/bracket/pull/394) on [evroon/bracket](https://github.com/evroon/bracket) (1 week ago)
+- [feat: ✨ add chip and tag](https://github.com/importantimport/shiraha/pull/22) on [importantimport/shiraha](https://github.com/importantimport/shiraha) (2 months ago)
+- [feat(Form): add valibot supprt](https://github.com/nuxt/ui/pull/615) on [nuxt/ui](https://github.com/nuxt/ui) (3 months ago)
+- [Update neodb extension](https://github.com/raycast/extensions/pull/7826) on [raycast/extensions](https://github.com/raycast/extensions) (4 months ago)
+- [Fix category of currency-florin.svg](https://github.com/tabler/tabler-icons/pull/761) on [tabler/tabler-icons](https://github.com/tabler/tabler-icons) (4 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.40.0](https://github.com/tabler/tabler-icons/releases/tag/v2.40.0), 3 days ago) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([9.19.0](https://github.com/simple-icons/simple-icons/releases/tag/9.19.0), 1 week ago) - SVG icons for popular brands
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.9.0](https://github.com/nuxt/ui/releases/tag/v2.9.0), 4 weeks ago) - Fully styled and customizable components for Nuxt.
-- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.4](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.4), 4 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
-- [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) ([v1.3.3](https://github.com/Fivefold/linkding-injector/releases/tag/v1.3.3), 1 month ago) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([10.4.0](https://github.com/simple-icons/simple-icons/releases/tag/10.4.0), 5 days ago) - SVG icons for popular brands
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.11.1](https://github.com/nuxt/ui/releases/tag/v2.11.1), 2 weeks ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.44.0](https://github.com/tabler/tabler-icons/releases/tag/v2.44.0), 2 weeks ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [evroon/bracket](https://github.com/evroon/bracket) ([v1.2.1](https://github.com/evroon/bracket/releases/tag/v1.2.1), 3 weeks ago) - Selfhosted tournament system with web interface
+- [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.5](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.5), 3 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
   
 #### 📓 Gists I wrote
   
 
-- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (6 months ago)
-- [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (9 months ago)
+- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (8 months ago)
+- [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (11 months ago)
 - [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (1 year ago)
 - [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (2 years ago)
 - [](https://gist.github.com/6fe4eeed295c832111fd7fbedc58cc05) (2 years ago)
@@ -69,11 +69,11 @@
   <br/>
 
 
-- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (3 weeks ago)
-- [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (1 month ago)
-- [Python 初学笔记](https://seviche.cc/2023-09-04-python) (1 month ago)
-- [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (2 months ago)
-- [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (5 months ago)
+- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (2 months ago)
+- [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (3 months ago)
+- [Python 初学笔记](https://seviche.cc/2023-09-04-python) (3 months ago)
+- [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (4 months ago)
+- [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (7 months ago)
 </details>
 
 
