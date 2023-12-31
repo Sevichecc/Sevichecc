@@ -19,7 +19,7 @@
   
 #### 👷 What I'm currently working on
 
-- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system with web interface (1 day ago)
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system with web interface (2 days ago)
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (2 months ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 months ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 months ago)
@@ -47,9 +47,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([10.4.0](https://github.com/simple-icons/simple-icons/releases/tag/10.4.0), 6 days ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([10.4.0](https://github.com/simple-icons/simple-icons/releases/tag/10.4.0), 1 week ago) - SVG icons for popular brands
 - [nuxt/ui](https://github.com/nuxt/ui) ([v2.11.1](https://github.com/nuxt/ui/releases/tag/v2.11.1), 2 weeks ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.44.0](https://github.com/tabler/tabler-icons/releases/tag/v2.44.0), 2 weeks ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.44.0](https://github.com/tabler/tabler-icons/releases/tag/v2.44.0), 3 weeks ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.2.1](https://github.com/evroon/bracket/releases/tag/v1.2.1), 3 weeks ago) - Selfhosted tournament system with web interface
 - [nuxt-themes/alpine](https://github.com/nuxt-themes/alpine) ([v1.6.5](https://github.com/nuxt-themes/alpine/releases/tag/v1.6.5), 3 weeks ago) - The minimalist blog theme, powered by Nuxt &amp; Markdown.
   
@@ -58,7 +58,7 @@
 
 - [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (8 months ago)
 - [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (11 months ago)
-- [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (1 year ago)
+- [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (2 years ago)
 - [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (2 years ago)
 - [](https://gist.github.com/6fe4eeed295c832111fd7fbedc58cc05) (2 years ago)
 </details>
