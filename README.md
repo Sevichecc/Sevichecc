@@ -19,8 +19,8 @@
   
 #### 👷 What I'm currently working on
 
-- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (3 days ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (5 days ago)
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (4 days ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (6 days ago)
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system with web interface (1 week ago)
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (2 months ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 months ago)
@@ -37,7 +37,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (3 days ago)
+- [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (4 days ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (1 week ago)
 - [Add i18n support and  translation for zh-CN](https://github.com/evroon/bracket/pull/394) on [evroon/bracket](https://github.com/evroon/bracket) (2 weeks ago)
 - [feat: ✨ add chip and tag](https://github.com/importantimport/shiraha/pull/22) on [importantimport/shiraha](https://github.com/importantimport/shiraha) (2 months ago)
@@ -47,10 +47,10 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.0.0](https://github.com/simple-icons/simple-icons/releases/tag/11.0.0), today) - SVG icons for popular brands
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.45.0](https://github.com/tabler/tabler-icons/releases/tag/v2.45.0), 6 days ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.0.0](https://github.com/simple-icons/simple-icons/releases/tag/11.0.0), 1 day ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.45.0](https://github.com/tabler/tabler-icons/releases/tag/v2.45.0), 1 week ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [primefaces/primevue](https://github.com/primefaces/primevue) ([3.45.0](https://github.com/primefaces/primevue/releases/tag/3.45.0), 2 weeks ago) - Next Generation Vue UI Component Library
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.11.1](https://github.com/nuxt/ui/releases/tag/v2.11.1), 3 weeks ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.11.1](https://github.com/nuxt/ui/releases/tag/v2.11.1), 4 weeks ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.2.1](https://github.com/evroon/bracket/releases/tag/v1.2.1), 1 month ago) - Selfhosted tournament system with web interface
   
 #### 📓 Gists I wrote
@@ -70,7 +70,7 @@
 
 
 - [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (3 months ago)
-- [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (3 months ago)
+- [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (4 months ago)
 - [Python 初学笔记](https://seviche.cc/2023-09-04-python) (4 months ago)
 - [我在看什么 · 5-8月](https://seviche.cc/2023-08-27-reading2) (4 months ago)
 - [计算机图形学初体验——CS291](https://seviche.cc/2023-05-18-cs291) (7 months ago)
