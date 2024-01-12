@@ -21,7 +21,7 @@
 
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (1 week ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 week ago)
-- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system with web interface (1 week ago)
+- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system with web interface (2 weeks ago)
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (2 months ago)
 - [importantimport/shiraha](https://github.com/importantimport/shiraha) - ❄ Material 3-inspired Classless CSS Framework. [WIP] (2 months ago)
   <br>
@@ -47,9 +47,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.12.0](https://github.com/nuxt/ui/releases/tag/v2.12.0), 2 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.46.0](https://github.com/primefaces/primevue/releases/tag/3.46.0), 3 days ago) - Next Generation Vue UI Component Library
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.0.0](https://github.com/simple-icons/simple-icons/releases/tag/11.0.0), 4 days ago) - SVG icons for popular brands
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.12.0](https://github.com/nuxt/ui/releases/tag/v2.12.0), 3 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.46.0](https://github.com/primefaces/primevue/releases/tag/3.46.0), 4 days ago) - Next Generation Vue UI Component Library
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.0.0](https://github.com/simple-icons/simple-icons/releases/tag/11.0.0), 5 days ago) - SVG icons for popular brands
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.45.0](https://github.com/tabler/tabler-icons/releases/tag/v2.45.0), 1 week ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.2.1](https://github.com/evroon/bracket/releases/tag/v1.2.1), 1 month ago) - Selfhosted tournament system with web interface
   
