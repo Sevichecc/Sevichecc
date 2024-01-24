@@ -47,9 +47,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.2.0](https://github.com/simple-icons/simple-icons/releases/tag/11.2.0), 2 days ago) - SVG icons for popular brands
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.0.0-alpha.0](https://github.com/tabler/tabler-icons/releases/tag/v3.0.0-alpha.0), 5 days ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.12.3](https://github.com/nuxt/ui/releases/tag/v2.12.3), 5 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.2.0](https://github.com/simple-icons/simple-icons/releases/tag/11.2.0), 3 days ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.0.0-alpha.0](https://github.com/tabler/tabler-icons/releases/tag/v3.0.0-alpha.0), 6 days ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.12.3](https://github.com/nuxt/ui/releases/tag/v2.12.3), 6 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
 - [primefaces/primevue](https://github.com/primefaces/primevue) ([3.46.0](https://github.com/primefaces/primevue/releases/tag/3.46.0), 2 weeks ago) - Next Generation Vue UI Component Library
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.2.1](https://github.com/evroon/bracket/releases/tag/v1.2.1), 1 month ago) - Selfhosted tournament system with web interface
   
@@ -69,8 +69,8 @@
   <br/>
 
 
-- [直率](https://seviche.cc/2024-01-22-not-funny) (1 day ago)
-- [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (3 days ago)
+- [直率](https://seviche.cc/2024-01-22-not-funny) (2 days ago)
+- [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (4 days ago)
 - [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (3 months ago)
 - [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (4 months ago)
 - [Python 初学笔记](https://seviche.cc/2023-09-04-python) (4 months ago)
