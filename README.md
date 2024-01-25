@@ -19,7 +19,7 @@
   
 #### 👷 What I'm currently working on
 
-- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (2 weeks ago)
+- [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (3 weeks ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 weeks ago)
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system with web interface (3 weeks ago)
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (2 months ago)
@@ -37,7 +37,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (2 weeks ago)
+- [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (3 weeks ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
 - [Add i18n support and  translation for zh-CN](https://github.com/evroon/bracket/pull/394) on [evroon/bracket](https://github.com/evroon/bracket) (1 month ago)
 - [feat: ✨ add chip and tag](https://github.com/importantimport/shiraha/pull/22) on [importantimport/shiraha](https://github.com/importantimport/shiraha) (3 months ago)
@@ -47,17 +47,17 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.2.0](https://github.com/simple-icons/simple-icons/releases/tag/11.2.0), 3 days ago) - SVG icons for popular brands
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.0.0-alpha.0](https://github.com/tabler/tabler-icons/releases/tag/v3.0.0-alpha.0), 6 days ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.12.3](https://github.com/nuxt/ui/releases/tag/v2.12.3), 6 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.46.0](https://github.com/primefaces/primevue/releases/tag/3.46.0), 2 weeks ago) - Next Generation Vue UI Component Library
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.47.1](https://github.com/primefaces/primevue/releases/tag/3.47.1), 1 day ago) - Next Generation Vue UI Component Library
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.2.0](https://github.com/simple-icons/simple-icons/releases/tag/11.2.0), 4 days ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.0.0-alpha.0](https://github.com/tabler/tabler-icons/releases/tag/v3.0.0-alpha.0), 1 week ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.12.3](https://github.com/nuxt/ui/releases/tag/v2.12.3), 1 week ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.2.1](https://github.com/evroon/bracket/releases/tag/v1.2.1), 1 month ago) - Selfhosted tournament system with web interface
   
 #### 📓 Gists I wrote
   
 
 - [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (9 months ago)
-- [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (11 months ago)
+- [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (1 year ago)
 - [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (2 years ago)
 - [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (2 years ago)
 - [](https://gist.github.com/6fe4eeed295c832111fd7fbedc58cc05) (2 years ago)
@@ -69,8 +69,8 @@
   <br/>
 
 
-- [直率](https://seviche.cc/2024-01-22-not-funny) (2 days ago)
-- [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (4 days ago)
+- [直率](https://seviche.cc/2024-01-22-not-funny) (3 days ago)
+- [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (5 days ago)
 - [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (3 months ago)
 - [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (4 months ago)
 - [Python 初学笔记](https://seviche.cc/2023-09-04-python) (4 months ago)
