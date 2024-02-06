@@ -19,8 +19,8 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (1 day ago)
-- [Sevichecc/unfold](https://github.com/Sevichecc/unfold) -  (1 day ago)
+- [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (2 days ago)
+- [Sevichecc/unfold](https://github.com/Sevichecc/unfold) -  (2 days ago)
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (1 month ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 month ago)
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system with web interface (1 month ago)
@@ -47,11 +47,11 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [evroon/bracket](https://github.com/evroon/bracket) ([v1.3.1](https://github.com/evroon/bracket/releases/tag/v1.3.1), 1 day ago) - Selfhosted tournament system with web interface
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.47.0](https://github.com/tabler/tabler-icons/releases/tag/v2.47.0), 4 days ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.13.0](https://github.com/nuxt/ui/releases/tag/v2.13.0), 6 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.48.0](https://github.com/primefaces/primevue/releases/tag/3.48.0), 1 day ago) - Next Generation Vue UI Component Library
+- [evroon/bracket](https://github.com/evroon/bracket) ([v1.3.1](https://github.com/evroon/bracket/releases/tag/v1.3.1), 2 days ago) - Selfhosted tournament system with web interface
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v2.47.0](https://github.com/tabler/tabler-icons/releases/tag/v2.47.0), 5 days ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.13.0](https://github.com/nuxt/ui/releases/tag/v2.13.0), 1 week ago) - A UI Library for Modern Web Apps, powered by Vue &amp; TailwindCSS.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.3.0](https://github.com/simple-icons/simple-icons/releases/tag/11.3.0), 1 week ago) - SVG icons for popular brands
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.47.2](https://github.com/primefaces/primevue/releases/tag/3.47.2), 1 week ago) - Next Generation Vue UI Component Library
   
 #### 📓 Gists I wrote
   
