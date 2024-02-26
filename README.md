@@ -19,7 +19,7 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 days ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 days ago)
 - [Sevichecc/Seigwai](https://github.com/Sevichecc/Seigwai) -  (3 weeks ago)
 - [Sevichecc/unfold](https://github.com/Sevichecc/unfold) -  (3 weeks ago)
 - [primefaces/primevue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library (1 month ago)
@@ -37,20 +37,20 @@
 #### 🔨 My recent Pull Requests
 
 
+- [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (today)
 - [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (1 month ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
 - [Add i18n support and  translation for zh-CN](https://github.com/evroon/bracket/pull/394) on [evroon/bracket](https://github.com/evroon/bracket) (2 months ago)
 - [feat: ✨ add chip and tag](https://github.com/importantimport/shiraha/pull/22) on [importantimport/shiraha](https://github.com/importantimport/shiraha) (4 months ago)
-- [feat(Form): add valibot supprt](https://github.com/nuxt/ui/pull/615) on [nuxt/ui](https://github.com/nuxt/ui) (5 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.6.0](https://github.com/simple-icons/simple-icons/releases/tag/11.6.0), today) - SVG icons for popular brands
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.14.1](https://github.com/nuxt/ui/releases/tag/v2.14.1), 2 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.49.0](https://github.com/primefaces/primevue/releases/tag/3.49.0), 2 days ago) - Next Generation Vue UI Component Library
-- [evroon/bracket](https://github.com/evroon/bracket) ([v1.4.4](https://github.com/evroon/bracket/releases/tag/v1.4.4), 4 days ago) - Selfhosted tournament system with web interface
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.49.1](https://github.com/primefaces/primevue/releases/tag/3.49.1), today) - Next Generation Vue UI Component Library
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.6.0](https://github.com/simple-icons/simple-icons/releases/tag/11.6.0), 1 day ago) - SVG icons for popular brands
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.14.1](https://github.com/nuxt/ui/releases/tag/v2.14.1), 3 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
+- [evroon/bracket](https://github.com/evroon/bracket) ([v1.4.4](https://github.com/evroon/bracket/releases/tag/v1.4.4), 5 days ago) - Selfhosted tournament system with web interface
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.0.0-beta](https://github.com/tabler/tabler-icons/releases/tag/v3.0.0-beta), 1 week ago) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
   
 #### 📓 Gists I wrote
@@ -69,7 +69,7 @@
   <br/>
 
 
-- [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (2 days ago)
+- [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (3 days ago)
 - [直率](https://seviche.cc/2024-01-22-not-funny) (1 month ago)
 - [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (1 month ago)
 - [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (4 months ago)
