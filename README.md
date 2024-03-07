@@ -47,8 +47,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.14.2](https://github.com/nuxt/ui/releases/tag/v2.14.2), 1 day ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.7.0](https://github.com/simple-icons/simple-icons/releases/tag/11.7.0), 3 days ago) - SVG icons for popular brands
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.14.2](https://github.com/nuxt/ui/releases/tag/v2.14.2), 2 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.7.0](https://github.com/simple-icons/simple-icons/releases/tag/11.7.0), 4 days ago) - SVG icons for popular brands
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.0.0-beta.2](https://github.com/tabler/tabler-icons/releases/tag/v3.0.0-beta.2), 1 week ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.4.6](https://github.com/evroon/bracket/releases/tag/v1.4.6), 1 week ago) - Selfhosted tournament system with web interface
 - [primefaces/primevue](https://github.com/primefaces/primevue) ([3.49.1](https://github.com/primefaces/primevue/releases/tag/3.49.1), 1 week ago) - Next Generation Vue UI Component Library
