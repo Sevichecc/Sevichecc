@@ -19,8 +19,8 @@
   
 #### 👷 What I'm currently working on
 
-- [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (today)
-- [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (5 days ago)
+- [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (1 day ago)
+- [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (6 days ago)
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (2 weeks ago)
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system with web interface (1 month ago)
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search. (1 month ago)
@@ -47,16 +47,16 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.15.0](https://github.com/nuxt/ui/releases/tag/v2.15.0), 5 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
-- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([peaceful-panther](https://github.com/BDX-town/Mangane/releases/tag/peaceful-panther), 6 days ago) - Alternative frontend for Akkoma
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.10.0](https://github.com/simple-icons/simple-icons/releases/tag/11.10.0), 1 week ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.11.0](https://github.com/simple-icons/simple-icons/releases/tag/11.11.0), 1 day ago) - SVG icons for popular brands
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.15.0](https://github.com/nuxt/ui/releases/tag/v2.15.0), 6 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
+- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([peaceful-panther](https://github.com/BDX-town/Mangane/releases/tag/peaceful-panther), 1 week ago) - Alternative frontend for Akkoma
 - [primefaces/primevue](https://github.com/primefaces/primevue) ([3.50.0](https://github.com/primefaces/primevue/releases/tag/3.50.0), 2 weeks ago) - Next Generation Vue UI Component Library
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.1.0](https://github.com/tabler/tabler-icons/releases/tag/v3.1.0), 2 weeks ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
   
 #### 📓 Gists I wrote
   
 
-- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (11 months ago)
+- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (1 year ago)
 - [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (1 year ago)
 - [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (2 years ago)
 - [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (2 years ago)
