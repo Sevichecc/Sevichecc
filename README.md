@@ -19,7 +19,7 @@
   
 #### 👷 What I'm currently working on
 
-- [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (6 days ago)
+- [importantimport/zeitdose](https://github.com/importantimport/zeitdose) -  (1 week ago)
 - [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (1 week ago)
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (3 weeks ago)
 - [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system with web interface (1 month ago)
@@ -47,10 +47,10 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.51.0](https://github.com/primefaces/primevue/releases/tag/3.51.0), 2 days ago) - Next Generation Vue UI Component Library
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.15.1](https://github.com/nuxt/ui/releases/tag/v2.15.1), 4 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
-- [BDX-town/Akkoma](https://github.com/BDX-town/Akkoma) ([2024-04-01](https://github.com/BDX-town/Akkoma/releases/tag/2024-04-01), 5 days ago) - Code source de l&#39;instance Pleroma a portée locale https://bdx.town
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.11.0](https://github.com/simple-icons/simple-icons/releases/tag/11.11.0), 6 days ago) - SVG icons for popular brands
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.12.0](https://github.com/simple-icons/simple-icons/releases/tag/11.12.0), today) - SVG icons for popular brands
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.51.0](https://github.com/primefaces/primevue/releases/tag/3.51.0), 3 days ago) - Next Generation Vue UI Component Library
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.15.1](https://github.com/nuxt/ui/releases/tag/v2.15.1), 5 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
+- [BDX-town/Akkoma](https://github.com/BDX-town/Akkoma) ([2024-04-01](https://github.com/BDX-town/Akkoma/releases/tag/2024-04-01), 6 days ago) - Code source de l&#39;instance Pleroma a portée locale https://bdx.town
 - [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([peaceful-panther](https://github.com/BDX-town/Mangane/releases/tag/peaceful-panther), 1 week ago) - Alternative frontend for Akkoma
   
 #### 📓 Gists I wrote
@@ -73,7 +73,7 @@
 - [直率](https://seviche.cc/2024-01-22-not-funny) (2 months ago)
 - [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (2 months ago)
 - [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (6 months ago)
-- [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (6 months ago)
+- [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (7 months ago)
 </details>
 
 
