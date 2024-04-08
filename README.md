@@ -47,11 +47,11 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.12.0](https://github.com/simple-icons/simple-icons/releases/tag/11.12.0), today) - SVG icons for popular brands
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.51.0](https://github.com/primefaces/primevue/releases/tag/3.51.0), 3 days ago) - Next Generation Vue UI Component Library
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.15.1](https://github.com/nuxt/ui/releases/tag/v2.15.1), 5 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
-- [BDX-town/Akkoma](https://github.com/BDX-town/Akkoma) ([2024-04-01](https://github.com/BDX-town/Akkoma/releases/tag/2024-04-01), 6 days ago) - Code source de l&#39;instance Pleroma a portée locale https://bdx.town
-- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([peaceful-panther](https://github.com/BDX-town/Mangane/releases/tag/peaceful-panther), 1 week ago) - Alternative frontend for Akkoma
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.12.0](https://github.com/simple-icons/simple-icons/releases/tag/11.12.0), 1 day ago) - SVG icons for popular brands
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([3.51.0](https://github.com/primefaces/primevue/releases/tag/3.51.0), 4 days ago) - Next Generation Vue UI Component Library
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.15.1](https://github.com/nuxt/ui/releases/tag/v2.15.1), 6 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
+- [BDX-town/Akkoma](https://github.com/BDX-town/Akkoma) ([2024-04-01](https://github.com/BDX-town/Akkoma/releases/tag/2024-04-01), 1 week ago) - Code source de l&#39;instance Pleroma a portée locale https://bdx.town
+- [BDX-town/Mangane](https://github.com/BDX-town/Mangane) ([peaceful-panther](https://github.com/BDX-town/Mangane/releases/tag/peaceful-panther), 2 weeks ago) - Alternative frontend for Akkoma
   
 #### 📓 Gists I wrote
   
