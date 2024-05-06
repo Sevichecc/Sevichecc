@@ -47,9 +47,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [evroon/bracket](https://github.com/evroon/bracket) ([v1.4.7](https://github.com/evroon/bracket/releases/tag/v1.4.7), 1 day ago) - Selfhosted tournament system with web interface
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.0-beta-2](https://github.com/primefaces/primevue/releases/tag/4.0.0-beta-2), 2 days ago) - Next Generation Vue UI Component Library
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.3.0](https://github.com/tabler/tabler-icons/releases/tag/v3.3.0), 5 days ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [evroon/bracket](https://github.com/evroon/bracket) ([v1.4.7](https://github.com/evroon/bracket/releases/tag/v1.4.7), 2 days ago) - Selfhosted tournament system with web interface
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.0-beta-2](https://github.com/primefaces/primevue/releases/tag/4.0.0-beta-2), 3 days ago) - Next Generation Vue UI Component Library
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.3.0](https://github.com/tabler/tabler-icons/releases/tag/v3.3.0), 6 days ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.14.0](https://github.com/simple-icons/simple-icons/releases/tag/11.14.0), 1 week ago) - SVG icons for popular brands
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.3](https://github.com/runyutech/mofang-rcs/releases/tag/v2.3), 1 week ago) - 
   
