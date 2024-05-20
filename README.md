@@ -19,7 +19,7 @@
   
 #### 👷 What I'm currently working on
 
-- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (1 week ago)
+- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (2 weeks ago)
 - [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (3 weeks ago)
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) -  (3 weeks ago)
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (2 months ago)
@@ -47,9 +47,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.15.0](https://github.com/simple-icons/simple-icons/releases/tag/11.15.0), today) - SVG icons for popular brands
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.4.0](https://github.com/tabler/tabler-icons/releases/tag/v3.4.0), 4 days ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.0-beta.3](https://github.com/primefaces/primevue/releases/tag/4.0.0-beta.3), 4 days ago) - Next Generation Vue UI Component Library
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.15.0](https://github.com/simple-icons/simple-icons/releases/tag/11.15.0), 1 day ago) - SVG icons for popular brands
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.4.0](https://github.com/tabler/tabler-icons/releases/tag/v3.4.0), 5 days ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.0-beta.3](https://github.com/primefaces/primevue/releases/tag/4.0.0-beta.3), 5 days ago) - Next Generation Vue UI Component Library
 - [nuxt/ui](https://github.com/nuxt/ui) ([v2.16.0](https://github.com/nuxt/ui/releases/tag/v2.16.0), 1 week ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.4.7](https://github.com/evroon/bracket/releases/tag/v1.4.7), 2 weeks ago) - Selfhosted tournament system with web interface
   
