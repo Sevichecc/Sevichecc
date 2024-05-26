@@ -38,7 +38,7 @@
 
 
 - [Create pull.yml](https://github.com/zeitdose/zeitdose/pull/1) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (2 months ago)
-- [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (2 months ago)
+- [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (3 months ago)
 - [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (4 months ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (4 months ago)
 - [Add i18n support and  translation for zh-CN](https://github.com/evroon/bracket/pull/394) on [evroon/bracket](https://github.com/evroon/bracket) (5 months ago)
@@ -47,9 +47,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [evroon/bracket](https://github.com/evroon/bracket) ([v1.5.0](https://github.com/evroon/bracket/releases/tag/v1.5.0), 1 day ago) - Selfhosted tournament system with web interface
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.5.0](https://github.com/tabler/tabler-icons/releases/tag/v3.5.0), 4 days ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.15.0](https://github.com/simple-icons/simple-icons/releases/tag/11.15.0), 6 days ago) - SVG icons for popular brands
+- [evroon/bracket](https://github.com/evroon/bracket) ([v1.5.0](https://github.com/evroon/bracket/releases/tag/v1.5.0), 2 days ago) - Selfhosted tournament system with web interface
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.5.0](https://github.com/tabler/tabler-icons/releases/tag/v3.5.0), 5 days ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ([11.15.0](https://github.com/simple-icons/simple-icons/releases/tag/11.15.0), 1 week ago) - SVG icons for popular brands
 - [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.0-beta.3](https://github.com/primefaces/primevue/releases/tag/4.0.0-beta.3), 1 week ago) - Next Generation Vue UI Component Library
 - [nuxt/ui](https://github.com/nuxt/ui) ([v2.16.0](https://github.com/nuxt/ui/releases/tag/v2.16.0), 2 weeks ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
   
