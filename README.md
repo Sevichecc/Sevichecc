@@ -37,7 +37,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [Create pull.yml](https://github.com/zeitdose/zeitdose/pull/1) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (2 months ago)
+- [Create pull.yml](https://github.com/zeitdose/zeitdose/pull/1) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (3 months ago)
 - [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (3 months ago)
 - [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (5 months ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (5 months ago)
@@ -47,9 +47,9 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.0-rc.2](https://github.com/primefaces/primevue/releases/tag/4.0.0-rc.2), today) - Next Generation Vue UI Component Library
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.6.0](https://github.com/tabler/tabler-icons/releases/tag/v3.6.0), 3 days ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.17.0](https://github.com/nuxt/ui/releases/tag/v2.17.0), 3 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.0-rc.2](https://github.com/primefaces/primevue/releases/tag/4.0.0-rc.2), 1 day ago) - Next Generation Vue UI Component Library
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.6.0](https://github.com/tabler/tabler-icons/releases/tag/v3.6.0), 4 days ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [nuxt/ui](https://github.com/nuxt/ui) ([v2.17.0](https://github.com/nuxt/ui/releases/tag/v2.17.0), 4 days ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.5.0](https://github.com/evroon/bracket/releases/tag/v1.5.0), 3 weeks ago) - Selfhosted tournament system with web interface
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.3](https://github.com/runyutech/mofang-rcs/releases/tag/v2.3), 1 month ago) - 
   
