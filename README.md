@@ -47,8 +47,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.0-rc.3](https://github.com/primefaces/primevue/releases/tag/4.0.0-rc.3), 1 day ago) - Next Generation Vue UI Component Library
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.7.0](https://github.com/tabler/tabler-icons/releases/tag/v3.7.0), 3 days ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.0-rc.3](https://github.com/primefaces/primevue/releases/tag/4.0.0-rc.3), 2 days ago) - Next Generation Vue UI Component Library
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.7.0](https://github.com/tabler/tabler-icons/releases/tag/v3.7.0), 4 days ago) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [nuxt/ui](https://github.com/nuxt/ui) ([v2.17.0](https://github.com/nuxt/ui/releases/tag/v2.17.0), 2 weeks ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.5.0](https://github.com/evroon/bracket/releases/tag/v1.5.0), 1 month ago) - Selfhosted tournament system with web interface
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.3](https://github.com/runyutech/mofang-rcs/releases/tag/v2.3), 2 months ago) - 
@@ -72,7 +72,7 @@
 - [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (4 months ago)
 - [直率](https://seviche.cc/2024-01-22-not-funny) (5 months ago)
 - [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (5 months ago)
-- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (8 months ago)
+- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (9 months ago)
 - [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (9 months ago)
 </details>
 
