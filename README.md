@@ -19,45 +19,44 @@
   
 #### 👷 What I'm currently working on
 
-- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (1 week ago)
-- [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (1 month ago)
-- [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) -  (2 months ago)
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (4 months ago)
-- [evroon/bracket](https://github.com/evroon/bracket) - Selfhosted tournament system with web interface (4 months ago)
+- [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (5 days ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 week ago)
+- [Sevichecc/my-query](https://github.com/Sevichecc/my-query) -  (2 weeks ago)
+- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (1 month ago)
+- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (2 months ago)
   <br>
 #### 🌱 My latest projects
 
+- [Sevichecc/my-query](https://github.com/Sevichecc/my-query) - 
 - [Sevichecc/unfold](https://github.com/Sevichecc/unfold) - 
 - [Sevichecc/devSite](https://github.com/Sevichecc/devSite) - 
 - [Sevichecc/raycast-anki-extension](https://github.com/Sevichecc/raycast-anki-extension) - 
 - [Sevichecc/Lisp-interpreter-in-TS](https://github.com/Sevichecc/Lisp-interpreter-in-TS) - 
-- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
   
 
 #### 🔨 My recent Pull Requests
 
 
-- [Create pull.yml](https://github.com/zeitdose/zeitdose/pull/1) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (3 months ago)
-- [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (4 months ago)
-- [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (6 months ago)
-- [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (6 months ago)
-- [Add i18n support and  translation for zh-CN](https://github.com/evroon/bracket/pull/394) on [evroon/bracket](https://github.com/evroon/bracket) (6 months ago)
+- [Create pull.yml](https://github.com/zeitdose/zeitdose/pull/1) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (6 months ago)
+- [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (7 months ago)
+- [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (8 months ago)
+- [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (8 months ago)
+- [Add i18n support and  translation for zh-CN](https://github.com/evroon/bracket/pull/394) on [evroon/bracket](https://github.com/evroon/bracket) (9 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) ([v3.10.0](https://github.com/tabler/tabler-icons/releases/tag/v3.10.0), 5 days ago) - A set of over 5300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.0](https://github.com/primefaces/primevue/releases/tag/4.0.0), 1 week ago) - Next Generation Vue UI Component Library
-- [nuxt/ui](https://github.com/nuxt/ui) ([v2.17.0](https://github.com/nuxt/ui/releases/tag/v2.17.0), 1 month ago) - A UI Library for Modern Web Apps, powered by Vue &amp; Tailwind CSS.
-- [evroon/bracket](https://github.com/evroon/bracket) ([v1.5.0](https://github.com/evroon/bracket/releases/tag/v1.5.0), 1 month ago) - Selfhosted tournament system with web interface
-- [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.3](https://github.com/runyutech/mofang-rcs/releases/tag/v2.3), 2 months ago) - 
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.7](https://github.com/primefaces/primevue/releases/tag/4.0.7), 1 week ago) - Next Generation Vue UI Component Library
+- [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 2 weeks ago) - 
+- [evroon/bracket](https://github.com/evroon/bracket) ([v1.5.3](https://github.com/evroon/bracket/releases/tag/v1.5.3), 2 weeks ago) - Selfhosted tournament system
+- [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.3](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.3), 10 months ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
   
 #### 📓 Gists I wrote
   
 
 - [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (1 year ago)
-- [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (1 year ago)
+- [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (2 years ago)
 - [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (2 years ago)
 - [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (2 years ago)
 - [](https://gist.github.com/6fe4eeed295c832111fd7fbedc58cc05) (2 years ago)
@@ -69,11 +68,11 @@
   <br/>
 
 
-- [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (4 months ago)
-- [直率](https://seviche.cc/2024-01-22-not-funny) (5 months ago)
-- [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (5 months ago)
-- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (9 months ago)
-- [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (10 months ago)
+- [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (1 week ago)
+- [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (7 months ago)
+- [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (8 months ago)
+- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (11 months ago)
+- [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (1 year ago)
 </details>
 
 
