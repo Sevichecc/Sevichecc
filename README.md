@@ -19,7 +19,7 @@
   
 #### 👷 What I'm currently working on
 
-- [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (1 week ago)
+- [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (today)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 week ago)
 - [Sevichecc/my-query](https://github.com/Sevichecc/my-query) -  (2 weeks ago)
 - [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (1 month ago)
@@ -71,7 +71,7 @@
 - [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (1 week ago)
 - [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (7 months ago)
 - [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (8 months ago)
-- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (11 months ago)
+- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (1 year ago)
 - [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (1 year ago)
 </details>
 
