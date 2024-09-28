@@ -19,7 +19,7 @@
   
 #### 👷 What I'm currently working on
 
-- [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (today)
+- [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (1 day ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 week ago)
 - [Sevichecc/my-query](https://github.com/Sevichecc/my-query) -  (2 weeks ago)
 - [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (1 month ago)
@@ -55,7 +55,7 @@
 #### 📓 Gists I wrote
   
 
-- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (1 year ago)
+- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (2 years ago)
 - [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (2 years ago)
 - [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (2 years ago)
 - [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (2 years ago)
@@ -68,7 +68,7 @@
   <br/>
 
 
-- [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (1 week ago)
+- [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (2 weeks ago)
 - [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (7 months ago)
 - [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (8 months ago)
 - [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (1 year ago)
