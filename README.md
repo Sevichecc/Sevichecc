@@ -19,7 +19,7 @@
   
 #### 👷 What I'm currently working on
 
-- [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (6 days ago)
+- [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (1 week ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 weeks ago)
 - [Sevichecc/my-query](https://github.com/Sevichecc/my-query) -  (3 weeks ago)
 - [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (1 month ago)
@@ -80,5 +80,3 @@
 
 ####  🖇️ See Also:
 [Codeberg](https://codeberg.org/Sevichecc) | [Forgejo](https://git.kongwoo.icu/seviche) | [Codepen](https://codepen.io/sevichee)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R8LXC9O)
