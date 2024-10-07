@@ -21,7 +21,7 @@
 
 - [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (1 week ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 weeks ago)
-- [Sevichecc/my-query](https://github.com/Sevichecc/my-query) -  (3 weeks ago)
+- [Sevichecc/my-query](https://github.com/Sevichecc/my-query) -  (4 weeks ago)
 - [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (1 month ago)
 - [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (2 months ago)
   <br>
