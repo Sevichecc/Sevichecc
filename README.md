@@ -47,8 +47,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.0.7](https://github.com/primefaces/primevue/releases/tag/4.0.7), 3 weeks ago) - Next Generation Vue UI Component Library
-- [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 3 weeks ago) - 
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.1.0](https://github.com/primefaces/primevue/releases/tag/4.1.0), 1 day ago) - Next Generation Vue UI Component Library
+- [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 4 weeks ago) - 
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.5.3](https://github.com/evroon/bracket/releases/tag/v1.5.3), 1 month ago) - Selfhosted tournament system
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.3](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.3), 11 months ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
   
@@ -79,4 +79,4 @@
 ---
 
 ####  🖇️ See Also:
-[Codeberg](https://codeberg.org/Sevichecc) | [Forgejo](https://git.kongwoo.icu/seviche) | [Codepen](https://codepen.io/sevichee)
+[Codeberg](https://codeberg.org/Sevichecc) | [Codepen](https://codepen.io/sevichee)
