@@ -47,7 +47,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.1.0](https://github.com/primefaces/primevue/releases/tag/4.1.0), 4 days ago) - Next Generation Vue UI Component Library
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.1.0](https://github.com/primefaces/primevue/releases/tag/4.1.0), 5 days ago) - Next Generation Vue UI Component Library
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 1 month ago) - 
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.5.3](https://github.com/evroon/bracket/releases/tag/v1.5.3), 1 month ago) - Selfhosted tournament system
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.3](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.3), 11 months ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
@@ -68,7 +68,7 @@
   <br/>
 
 
-- [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (3 weeks ago)
+- [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (4 weeks ago)
 - [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (7 months ago)
 - [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (8 months ago)
 - [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (1 year ago)
