@@ -23,7 +23,7 @@
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (4 weeks ago)
 - [Sevichecc/my-query](https://github.com/Sevichecc/my-query) -  (1 month ago)
 - [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (1 month ago)
-- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (2 months ago)
+- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (3 months ago)
   <br>
 #### 🌱 My latest projects
 
@@ -41,13 +41,13 @@
 - [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (7 months ago)
 - [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (9 months ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (9 months ago)
-- [Add i18n support and  translation for zh-CN](https://github.com/evroon/bracket/pull/394) on [evroon/bracket](https://github.com/evroon/bracket) (9 months ago)
+- [Add i18n support and  translation for zh-CN](https://github.com/evroon/bracket/pull/394) on [evroon/bracket](https://github.com/evroon/bracket) (10 months ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.1.0](https://github.com/primefaces/primevue/releases/tag/4.1.0), 6 days ago) - Next Generation Vue UI Component Library
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.1.0](https://github.com/primefaces/primevue/releases/tag/4.1.0), 1 week ago) - Next Generation Vue UI Component Library
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 1 month ago) - 
 - [evroon/bracket](https://github.com/evroon/bracket) ([v1.5.3](https://github.com/evroon/bracket/releases/tag/v1.5.3), 1 month ago) - Selfhosted tournament system
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.3](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.3), 11 months ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
@@ -68,7 +68,7 @@
   <br/>
 
 
-- [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (4 weeks ago)
+- [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (1 month ago)
 - [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (7 months ago)
 - [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (8 months ago)
 - [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (1 year ago)
