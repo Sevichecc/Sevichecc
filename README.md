@@ -19,8 +19,8 @@
   
 #### 👷 What I'm currently working on
 
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (today)
 - [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (2 weeks ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (4 weeks ago)
 - [Sevichecc/my-query](https://github.com/Sevichecc/my-query) -  (1 month ago)
 - [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (1 month ago)
 - [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (3 months ago)
@@ -37,7 +37,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [Create pull.yml](https://github.com/zeitdose/zeitdose/pull/1) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (6 months ago)
+- [Create pull.yml](https://github.com/zeitdose/zeitdose/pull/1) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (7 months ago)
 - [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (7 months ago)
 - [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (9 months ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (9 months ago)
@@ -68,11 +68,11 @@
   <br/>
 
 
+- [为Obsidian添加仿真荧光笔高亮样式](https://seviche.cc/2024-10-14-obsidian-highlight) (1 day ago)
 - [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (1 month ago)
 - [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (7 months ago)
 - [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (8 months ago)
 - [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (1 year ago)
-- [Akkoma / Pleroma 的媒体相关配置](https://seviche.cc/2023-09-10-akkoma-media) (1 year ago)
 </details>
 
 
