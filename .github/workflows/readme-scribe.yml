@@ -15,6 +15,7 @@ jobs:
       - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          FILTER_KEYWORDS: ${{ secrets.FILTER_KEYWORDS }}
         with:
           template: "README.tpl.md"
           writeTo: "README.md"
