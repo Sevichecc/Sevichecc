@@ -19,17 +19,11 @@
   
 #### 👷 What I'm currently working on
 {{range recentContributions 5 }}
-{{- $repoName := .Repo.Name }}
-{{- $filterKeywords := (env "FILTER_KEYWORDS") }}
-{{- if not (eq (index (split (printf "%s" (index (split (printf "%s✂️%s" $repoName $filterKeywords) "✂️") 1)) $repoName) 0) $repoName) }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
   <br>
 #### 🌱 My latest projects
 {{range recentRepos 5 }}
-{{- $repoName := .Repo.Name }}
-{{- $filterKeywords := (env "FILTER_KEYWORDS") }}
-{{- if not (eq (index (split (printf "%s" (index (split (printf "%s✂️%s" $repoName $filterKeywords) "✂️") 1)) $repoName) 0) $repoName) }}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
   
@@ -37,9 +31,6 @@
 #### 🔨 My recent Pull Requests
 
 {{range recentPullRequests 5}}
-{{- $repoName := .Repo.Name }}
-{{- $filterKeywords := (env "FILTER_KEYWORDS") }}
-{{- if not (eq (index (split (printf "%s" (index (split (printf "%s✂️%s" $repoName $filterKeywords) "✂️") 1)) $repoName) 0) $repoName) }}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
@@ -47,18 +38,12 @@
 #### 🔭 Latest releases I've contributed to
 
 {{range recentReleases 5 }}
-{{- $repoName := .Repo.Name }}
-{{- $filterKeywords := (env "FILTER_KEYWORDS") }}
-{{- if not (eq (index (split (printf "%s" (index (split (printf "%s✂️%s" $repoName $filterKeywords) "✂️") 1)) $repoName) 0) $repoName) }}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
   
 #### 📓 Gists I wrote
   
 {{range gists 5}}
-{{- $repoName := .Repo.Name }}
-{{- $filterKeywords := (env "FILTER_KEYWORDS") }}
-{{- if not (eq (index (split (printf "%s" (index (split (printf "%s✂️%s" $repoName $filterKeywords) "✂️") 1)) $repoName) 0) $repoName) }}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 </details>
