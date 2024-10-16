@@ -19,11 +19,13 @@
   
 #### 👷 What I'm currently working on
 {{range recentContributions 5 }}
+{{- if not (contains .Repo.Name (env "FILTER_KEYWORDS")) }}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
   <br>
 #### 🌱 My latest projects
 {{range recentRepos 5 }}
+{{- if not (contains .Repo.Name (env "FILTER_KEYWORDS")) }}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
   
@@ -31,6 +33,7 @@
 #### 🔨 My recent Pull Requests
 
 {{range recentPullRequests 5}}
+{{- if not (contains .Repo.Name (env "FILTER_KEYWORDS")) }}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
@@ -38,12 +41,14 @@
 #### 🔭 Latest releases I've contributed to
 
 {{range recentReleases 5 }}
+{{- if not (contains .Repo.Name (env "FILTER_KEYWORDS")) }}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
   
 #### 📓 Gists I wrote
   
 {{range gists 5}}
+{{- if not (contains .Repo.Name (env "FILTER_KEYWORDS")) }}
 - [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 </details>
