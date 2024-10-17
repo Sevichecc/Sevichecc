@@ -1,7 +1,12 @@
+> Full-stack wizard casting CSS, JS, and Go spells by day. Web3D and Virtual Art apprentice by night. Powered by flat whites and Splatoon 3 ink.
+>> Magicien full-stack lançant des sorts CSS, JS et Go le jour. Apprenti en Web3D et Art Virtuel la nuit. Propulsé par des flat whites et l'encre de Splatoon 3.
+>>> 昼はCSS、JS、Goの呪文を操るフルスタック魔法使い。夜はWeb3Dとバーチャルアートの見習い。フラットホワイトとSplatoon 3のインクで動く不思議な開発者。
+>>>> 白天是用CSS、JS和Go施法的全栈魔法师，晚上是Web3D和虚拟艺术的学徒。靠澳白咖啡和喷喷墨水续命的一般市民。
 
-> An ordinary front-end developer who spends her days wrestling with CSS and JavaScript at work, but dreams about the exciting world of backend development at night.
->> 	普通のフロントエンドエンジニアです。日中は仕事でCSSとJavaScriptに首をつっこみますが、夜はバックエンド開発の刺激的な世界を夢見ています。
->>>	从事前端开发的一般市民。
+
+☕💻🦑🎨🌐🐹
+☕💻 | 🦑🎮 | 🎨🌐
+
 
 ####  <img src="https://cdn.discordapp.com/emojis/491270848032800768.png?size=128" style="width:24px;"> Contact  
 
