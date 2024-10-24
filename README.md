@@ -22,9 +22,9 @@
   
 #### 👷 What I'm currently working on
 
-- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (today)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 days ago)
-- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) -  (6 days ago)
+- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) -  (today)
+- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (1 day ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 days ago)
 - [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 week ago)
 - [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs. (1 week ago)
   <br>
