@@ -22,9 +22,9 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) -  (1 day ago)
-- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (2 days ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (4 days ago)
+- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) -  (2 days ago)
+- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (3 days ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (5 days ago)
 - [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 week ago)
 - [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs. (1 week ago)
   <br>
@@ -43,7 +43,7 @@
 - [Create pull.yml](https://github.com/zeitdose/zeitdose/pull/1) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (7 months ago)
 - [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (8 months ago)
 - [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (9 months ago)
-- [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (9 months ago)
+- [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (10 months ago)
 - [Add i18n support and  translation for zh-CN](https://github.com/evroon/bracket/pull/394) on [evroon/bracket](https://github.com/evroon/bracket) (10 months ago)
 
 
