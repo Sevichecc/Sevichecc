@@ -22,9 +22,9 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) -  (3 days ago)
-- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (4 days ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (6 days ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 day ago)
+- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) -  (4 days ago)
+- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (5 days ago)
 - [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 week ago)
 - [Sevichecc/M-OAuth](https://github.com/Sevichecc/M-OAuth) - Access token generator for Akkoma, Pleroma, Mastodon APIs. (1 week ago)
   <br>
@@ -71,11 +71,11 @@
   <br/>
 
 
-- [为Obsidian添加仿真荧光笔高亮样式](https://seviche.cc/2024-10-14-obsidian-highlight) (1 week ago)
+- [Git使用随记](https://seviche.cc/2024-10-28-git) (today)
+- [为Obsidian添加仿真荧光笔高亮样式](https://seviche.cc/2024-10-14-obsidian-highlight) (2 weeks ago)
 - [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (1 month ago)
 - [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (8 months ago)
 - [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (9 months ago)
-- [远程工作相关链接](https://seviche.cc/2023-10-02-remote-work) (1 year ago)
 </details>
 
 
