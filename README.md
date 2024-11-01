@@ -23,7 +23,7 @@
 #### 👷 What I'm currently working on
 
 - [Sevichecc/games101](https://github.com/Sevichecc/games101) -  (today)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (1 day ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 days ago)
 - [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) -  (1 week ago)
 - [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (1 week ago)
 - [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (2 weeks ago)
@@ -71,7 +71,7 @@
   <br/>
 
 
-- [Git使用随记](https://seviche.cc/2024-10-28-git) (3 days ago)
+- [Git使用随记](https://seviche.cc/2024-10-28-git) (4 days ago)
 - [为Obsidian添加仿真荧光笔高亮样式](https://seviche.cc/2024-10-14-obsidian-highlight) (2 weeks ago)
 - [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (1 month ago)
 - [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (8 months ago)
