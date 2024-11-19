@@ -22,8 +22,8 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (1 day ago)
-- [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱 (1 day ago)
+- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (2 days ago)
+- [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱 (2 days ago)
 - [Sevichecc/games101](https://github.com/Sevichecc/games101) -  (2 weeks ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 weeks ago)
 - [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) -  (3 weeks ago)
@@ -50,8 +50,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 3 days ago) - Selfhosted tournament system
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.2.2](https://github.com/primefaces/primevue/releases/tag/4.2.2), 4 days ago) - Next Generation Vue UI Component Library
+- [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 4 days ago) - Selfhosted tournament system
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.2.2](https://github.com/primefaces/primevue/releases/tag/4.2.2), 5 days ago) - Next Generation Vue UI Component Library
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 2 months ago) - 
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.3](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.3), 1 year ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
   
@@ -74,7 +74,7 @@
 - [Git使用随记](https://seviche.cc/2024-10-28-git) (3 weeks ago)
 - [为Obsidian添加仿真荧光笔高亮样式](https://seviche.cc/2024-10-14-obsidian-highlight) (1 month ago)
 - [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (2 months ago)
-- [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (8 months ago)
+- [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (9 months ago)
 - [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (10 months ago)
 </details>
 
