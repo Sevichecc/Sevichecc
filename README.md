@@ -22,10 +22,10 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (2 days ago)
-- [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱 (2 days ago)
+- [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱 (today)
+- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (3 days ago)
 - [Sevichecc/games101](https://github.com/Sevichecc/games101) -  (2 weeks ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 weeks ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 weeks ago)
 - [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) -  (3 weeks ago)
   <br>
 #### 🌱 My latest projects
@@ -50,8 +50,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 4 days ago) - Selfhosted tournament system
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.2.2](https://github.com/primefaces/primevue/releases/tag/4.2.2), 5 days ago) - Next Generation Vue UI Component Library
+- [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 5 days ago) - Selfhosted tournament system
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.2.2](https://github.com/primefaces/primevue/releases/tag/4.2.2), 6 days ago) - Next Generation Vue UI Component Library
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 2 months ago) - 
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.3](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.3), 1 year ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
   
