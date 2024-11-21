@@ -23,18 +23,18 @@
 #### 👷 What I'm currently working on
 
 - [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱 (today)
-- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (3 days ago)
+- [Sevichecc/fish-french-greeting](https://github.com/Sevichecc/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (1 day ago)
+- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (4 days ago)
 - [Sevichecc/games101](https://github.com/Sevichecc/games101) -  (2 weeks ago)
 - [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 weeks ago)
-- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) -  (3 weeks ago)
   <br>
 #### 🌱 My latest projects
 
+- [Sevichecc/fish-french-greeting](https://github.com/Sevichecc/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji.
 - [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱
 - [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) - 
 - [Sevichecc/games101](https://github.com/Sevichecc/games101) - 
 - [Sevichecc/my-query](https://github.com/Sevichecc/my-query) - 
-- [Sevichecc/unfold](https://github.com/Sevichecc/unfold) - 
   
 
 #### 🔨 My recent Pull Requests
@@ -50,19 +50,11 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 5 days ago) - Selfhosted tournament system
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.2.2](https://github.com/primefaces/primevue/releases/tag/4.2.2), 6 days ago) - Next Generation Vue UI Component Library
+- [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 6 days ago) - Selfhosted tournament system
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.2.2](https://github.com/primefaces/primevue/releases/tag/4.2.2), 1 week ago) - Next Generation Vue UI Component Library
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 2 months ago) - 
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.3](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.3), 1 year ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
-  
-#### 📓 Gists I wrote
-  
 
-- [nord light theme for Rime](https://gist.github.com/ae49279fbc12b633697e05fd832559e9) (2 years ago)
-- [](https://gist.github.com/8bb1c560d5ac7bf3d73176a6e059e7fb) (2 years ago)
-- [rss&#43; &amp; miniflux](https://gist.github.com/f5608c4ad52e71d98f6fcf74110369df) (2 years ago)
-- [fork from https://github.com/ronilaukkarinen/miniflux-theme-midnight/blob/master/style.css](https://gist.github.com/dd534c114a23bb410baeab3287f134e8) (2 years ago)
-- [](https://gist.github.com/6fe4eeed295c832111fd7fbedc58cc05) (2 years ago)
 </details>
 
 
