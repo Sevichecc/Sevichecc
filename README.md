@@ -22,11 +22,11 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱 (today)
-- [Sevichecc/fish-french-greeting](https://github.com/Sevichecc/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (1 day ago)
-- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (4 days ago)
-- [Sevichecc/games101](https://github.com/Sevichecc/games101) -  (2 weeks ago)
-- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (3 weeks ago)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (today)
+- [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱 (1 day ago)
+- [Sevichecc/fish-french-greeting](https://github.com/Sevichecc/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (2 days ago)
+- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (5 days ago)
+- [Sevichecc/games101](https://github.com/Sevichecc/games101) -  (3 weeks ago)
   <br>
 #### 🌱 My latest projects
 
@@ -41,7 +41,7 @@
 
 
 - [Create pull.yml](https://github.com/zeitdose/zeitdose/pull/1) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (8 months ago)
-- [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (8 months ago)
+- [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (9 months ago)
 - [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (10 months ago)
 - [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (10 months ago)
 - [Add i18n support and  translation for zh-CN](https://github.com/evroon/bracket/pull/394) on [evroon/bracket](https://github.com/evroon/bracket) (11 months ago)
@@ -50,7 +50,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 6 days ago) - Selfhosted tournament system
+- [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 1 week ago) - Selfhosted tournament system
 - [primefaces/primevue](https://github.com/primefaces/primevue) ([4.2.2](https://github.com/primefaces/primevue/releases/tag/4.2.2), 1 week ago) - Next Generation Vue UI Component Library
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 2 months ago) - 
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.3](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.3), 1 year ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
