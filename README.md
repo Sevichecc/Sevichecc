@@ -22,10 +22,10 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (today)
-- [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱 (1 day ago)
-- [Sevichecc/fish-french-greeting](https://github.com/Sevichecc/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (2 days ago)
-- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (5 days ago)
+- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (1 day ago)
+- [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱 (2 days ago)
+- [Sevichecc/fish-french-greeting](https://github.com/Sevichecc/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (3 days ago)
+- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (6 days ago)
 - [Sevichecc/games101](https://github.com/Sevichecc/games101) -  (3 weeks ago)
   <br>
 #### 🌱 My latest projects
@@ -50,8 +50,8 @@
 #### 🔭 Latest releases I've contributed to
 
 
+- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.2.3](https://github.com/primefaces/primevue/releases/tag/4.2.3), 1 day ago) - Next Generation Vue UI Component Library
 - [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 1 week ago) - Selfhosted tournament system
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.2.2](https://github.com/primefaces/primevue/releases/tag/4.2.2), 1 week ago) - Next Generation Vue UI Component Library
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 2 months ago) - 
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.3](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.3), 1 year ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
 
