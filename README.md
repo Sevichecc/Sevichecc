@@ -22,9 +22,9 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) - Unofficial JavaScript SDK for Miniflux. (2 days ago)
-- [Sevichecc/my-query](https://github.com/Sevichecc/my-query) -  (3 days ago)
-- [Sevichecc/fish-french-greeting](https://github.com/Sevichecc/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (1 week ago)
+- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) - Unofficial JavaScript SDK for Miniflux. (3 days ago)
+- [Sevichecc/my-query](https://github.com/Sevichecc/my-query) -  (4 days ago)
+- [Sevichecc/fish-french-greeting](https://github.com/Sevichecc/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (2 weeks ago)
 - [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (2 weeks ago)
 - [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱 (2 weeks ago)
   <br>
@@ -40,7 +40,7 @@
 #### 🔨 My recent Pull Requests
 
 
-- [feat: add option to filter out future-dated entries](https://github.com/miniflux/v2/pull/2976) on [miniflux/v2](https://github.com/miniflux/v2) (2 days ago)
+- [feat: add option to filter out future-dated entries](https://github.com/miniflux/v2/pull/2976) on [miniflux/v2](https://github.com/miniflux/v2) (3 days ago)
 - [Create pull.yml](https://github.com/zeitdose/zeitdose/pull/1) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (8 months ago)
 - [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (9 months ago)
 - [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (11 months ago)
@@ -50,7 +50,7 @@
 #### 🔭 Latest releases I've contributed to
 
 
-- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) ([v0.0.4](https://github.com/Sevichecc/miniflux-js/releases/tag/v0.0.4), 2 days ago) - Unofficial JavaScript SDK for Miniflux.
+- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) ([v0.0.4](https://github.com/Sevichecc/miniflux-js/releases/tag/v0.0.4), 3 days ago) - Unofficial JavaScript SDK for Miniflux.
 - [primefaces/primevue](https://github.com/primefaces/primevue) ([4.2.4](https://github.com/primefaces/primevue/releases/tag/4.2.4), 1 week ago) - Next Generation Vue UI Component Library
 - [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 3 weeks ago) - Selfhosted tournament system
 - [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 3 months ago) - 
