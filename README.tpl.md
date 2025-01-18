@@ -51,7 +51,7 @@
   <summary><b> 📜 My recent blog posts</b></summary>
   <br/>
 
-{{range rss "https://seviche.cc/atom.xml" 5}}
+{{range rss "https://sevic.me/atom.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 </details>
