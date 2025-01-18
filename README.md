@@ -22,38 +22,38 @@
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) - Unofficial JavaScript SDK for Miniflux. (3 days ago)
-- [Sevichecc/my-query](https://github.com/Sevichecc/my-query) -  (4 days ago)
-- [Sevichecc/fish-french-greeting](https://github.com/Sevichecc/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji. (2 weeks ago)
-- [Sevichecc/raycast-mastodon-extension](https://github.com/Sevichecc/raycast-mastodon-extension) - Raycast Extension for Mastodon (2 weeks ago)
-- [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱 (2 weeks ago)
+- [Sevichecc/calendar-heatmap](https://github.com/Sevichecc/calendar-heatmap) -  (1 day ago)
+- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (1 week ago)
+- [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) -  (1 week ago)
+- [Sevichecc/Urara-Blog](https://github.com/Sevichecc/Urara-Blog) - Repo for my blog (2 weeks ago)
+- [bambooom/bambooom.github.io](https://github.com/bambooom/bambooom.github.io) - blahblahblah blog (2 weeks ago)
   <br>
 #### 🌱 My latest projects
 
+- [Sevichecc/calendar-heatmap](https://github.com/Sevichecc/calendar-heatmap) - 
 - [Sevichecc/fish-french-greeting](https://github.com/Sevichecc/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji.
 - [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱
 - [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) - Unofficial JavaScript SDK for Miniflux.
 - [Sevichecc/games101](https://github.com/Sevichecc/games101) - 
-- [Sevichecc/my-query](https://github.com/Sevichecc/my-query) - 
   
 
 #### 🔨 My recent Pull Requests
 
 
-- [feat: add option to filter out future-dated entries](https://github.com/miniflux/v2/pull/2976) on [miniflux/v2](https://github.com/miniflux/v2) (3 days ago)
-- [Create pull.yml](https://github.com/zeitdose/zeitdose/pull/1) on [zeitdose/zeitdose](https://github.com/zeitdose/zeitdose) (8 months ago)
-- [Update zh-CN&#39;s translation #529](https://github.com/evroon/bracket/pull/532) on [evroon/bracket](https://github.com/evroon/bracket) (9 months ago)
-- [Fix typo](https://github.com/primefaces/primevue/pull/5029) on [primefaces/primevue](https://github.com/primefaces/primevue) (11 months ago)
-- [Update mastodon extension](https://github.com/raycast/extensions/pull/9936) on [raycast/extensions](https://github.com/raycast/extensions) (11 months ago)
+- [Update about.md](https://github.com/bambooom/bambooom.github.io/pull/28) on [bambooom/bambooom.github.io](https://github.com/bambooom/bambooom.github.io) (2 weeks ago)
+- [Update friends.md](https://github.com/LitoMore/litomore.me/pull/1) on [LitoMore/litomore.me](https://github.com/LitoMore/litomore.me) (3 weeks ago)
+- [Update friends.ts](https://github.com/kwaa/blog/pull/4) on [kwaa/blog](https://github.com/kwaa/blog) (3 weeks ago)
+- [docs(rules): add date filter pattern](https://github.com/miniflux/website/pull/93) on [miniflux/website](https://github.com/miniflux/website) (1 month ago)
+- [feat: Add date-based entry filtering rules](https://github.com/miniflux/v2/pull/3016) on [miniflux/v2](https://github.com/miniflux/v2) (1 month ago)
 
 
 #### 🔭 Latest releases I've contributed to
 
 
-- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) ([v0.0.4](https://github.com/Sevichecc/miniflux-js/releases/tag/v0.0.4), 3 days ago) - Unofficial JavaScript SDK for Miniflux.
-- [primefaces/primevue](https://github.com/primefaces/primevue) ([4.2.4](https://github.com/primefaces/primevue/releases/tag/4.2.4), 1 week ago) - Next Generation Vue UI Component Library
-- [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 3 weeks ago) - Selfhosted tournament system
-- [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 3 months ago) - 
+- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.4](https://github.com/miniflux/v2/releases/tag/2.2.4), 4 weeks ago) - Minimalist and opinionated feed reader
+- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) ([v0.0.6](https://github.com/Sevichecc/miniflux-js/releases/tag/v0.0.6), 1 month ago) - Unofficial JavaScript SDK for Miniflux.
+- [evroon/bracket](https://github.com/evroon/bracket) ([v2.0.2](https://github.com/evroon/bracket/releases/tag/v2.0.2), 2 months ago) - Selfhosted tournament system
+- [runyutech/mofang-rcs](https://github.com/runyutech/mofang-rcs) ([v2.4.6](https://github.com/runyutech/mofang-rcs/releases/tag/v2.4.6), 4 months ago) - 
 - [Sevichecc/miniflux-injector](https://github.com/Sevichecc/miniflux-injector) ([v2.3.3](https://github.com/Sevichecc/miniflux-injector/releases/tag/v2.3.3), 1 year ago) - Injects Miniflux search results into search engine pages such as  Google, DuckDuckGo, SearXNG and Brave Search.
 
 </details>
@@ -64,11 +64,11 @@
   <br/>
 
 
-- [Git使用随记](https://seviche.cc/2024-10-28-git) (1 month ago)
-- [为Obsidian添加仿真荧光笔高亮样式](https://seviche.cc/2024-10-14-obsidian-highlight) (1 month ago)
-- [使用 Obsidian 三年之后的设置 （外观篇）](https://seviche.cc/2024-09-14-obsidian-apperance) (2 months ago)
-- [我在看什么 · 2023年9月~2024年2月](https://seviche.cc/2024-02-23-reading) (9 months ago)
-- [2023 - 命题作文](https://seviche.cc/2024-01-20-2023) (10 months ago)
+- [Git使用随记](https://sevic.me/2024-10-28-git) (2 months ago)
+- [为Obsidian添加仿真荧光笔高亮样式](https://sevic.me/2024-10-14-obsidian-highlight) (3 months ago)
+- [使用 Obsidian 三年之后的设置 （外观篇）](https://sevic.me/2024-09-14-obsidian-apperance) (4 months ago)
+- [我在看什么 · 2023年9月~2024年2月](https://sevic.me/2024-02-23-reading) (11 months ago)
+- [2023 - 命题作文](https://sevic.me/2024-01-20-2023) (1 year ago)
 </details>
 
 
