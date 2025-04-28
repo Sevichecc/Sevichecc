@@ -1,3 +1,5 @@
+Embracing new freedom to create
+
 > Full-stack wizard casting CSS, JS, and Go spells by day. Web3D and Virtual Art apprentice by night. Powered by flat whites and Splatoon 3 ink.
 >> Magicien full-stack lançant des sorts CSS, JS et Go le jour. Apprenti en Web3D et Art Virtuel la nuit. Propulsé par des flat whites et l'encre de Splatoon 3.
 >>> 昼はCSS、JS、Goの呪文を操るフルスタック魔法使い。夜はWeb3Dとバーチャルアートの見習い。フラットホワイトとSplatoon 3のインクで動く不思議な開発者。
