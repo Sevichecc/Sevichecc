@@ -24,7 +24,7 @@ Embracing new freedom to create
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (2 weeks ago)
+- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (3 weeks ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 weeks ago)
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (3 weeks ago)
 - [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 month ago)
@@ -52,7 +52,7 @@ Embracing new freedom to create
 #### 🔭 Latest releases I've contributed to
 
 
-- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.8](https://github.com/miniflux/v2/releases/tag/2.2.8), 5 days ago) - Minimalist and opinionated feed reader
+- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.8](https://github.com/miniflux/v2/releases/tag/2.2.8), 6 days ago) - Minimalist and opinionated feed reader
 - [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) ([v0.0.6](https://github.com/Sevichecc/miniflux-js/releases/tag/v0.0.6), 4 months ago) - Unofficial JavaScript SDK for Miniflux.
 
 </details>
@@ -63,7 +63,7 @@ Embracing new freedom to create
   <br/>
 
 
-- [在DuckDuckGo和Google搜索结果中屏蔽CSDN](https://sevic.me/2025-04-08) (2 weeks ago)
+- [在DuckDuckGo和Google搜索结果中屏蔽CSDN](https://sevic.me/2025-04-08) (3 weeks ago)
 - [我在看什么 · 2024年3月 - 2025年3月](https://sevic.me/2025-03-22-reading) (1 month ago)
 - [Git使用随记](https://sevic.me/2024-10-28-git) (6 months ago)
 - [为Obsidian添加仿真荧光笔高亮样式](https://sevic.me/2024-10-14-obsidian-highlight) (6 months ago)
