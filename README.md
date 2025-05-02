@@ -26,7 +26,7 @@ Embracing new freedom to create
 
 - [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (3 weeks ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (3 weeks ago)
-- [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (3 weeks ago)
+- [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (4 weeks ago)
 - [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 month ago)
 - [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (2 months ago)
   <br>
@@ -43,7 +43,7 @@ Embracing new freedom to create
 
 
 - [Fix the `mastodon` extension](https://github.com/raycast/extensions/pull/18407) on [raycast/extensions](https://github.com/raycast/extensions) (3 weeks ago)
-- [Fix bun CLI](https://github.com/unovue/inspira-ui/pull/173) on [unovue/inspira-ui](https://github.com/unovue/inspira-ui) (3 weeks ago)
+- [Fix bun CLI](https://github.com/unovue/inspira-ui/pull/173) on [unovue/inspira-ui](https://github.com/unovue/inspira-ui) (4 weeks ago)
 - [Update about.md](https://github.com/bambooom/bambooom.github.io/pull/28) on [bambooom/bambooom.github.io](https://github.com/bambooom/bambooom.github.io) (4 months ago)
 - [Update friends.md](https://github.com/LitoMore/litomore.me/pull/1) on [LitoMore/litomore.me](https://github.com/LitoMore/litomore.me) (4 months ago)
 - [Update friends.ts](https://github.com/kwaa/blog/pull/4) on [kwaa/blog](https://github.com/kwaa/blog) (4 months ago)
