@@ -25,7 +25,7 @@ Embracing new freedom to create
 #### 👷 What I'm currently working on
 
 - [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (4 weeks ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (4 weeks ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 month ago)
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (1 month ago)
 - [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 month ago)
 - [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (2 months ago)
@@ -52,7 +52,7 @@ Embracing new freedom to create
 #### 🔭 Latest releases I've contributed to
 
 
-- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.8](https://github.com/miniflux/v2/releases/tag/2.2.8), 1 week ago) - Minimalist and opinionated feed reader
+- [miniflux/v2](https://github.com/miniflux/v2) ([2.2.8](https://github.com/miniflux/v2/releases/tag/2.2.8), 2 weeks ago) - Minimalist and opinionated feed reader
 - [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) ([v0.0.6](https://github.com/Sevichecc/miniflux-js/releases/tag/v0.0.6), 4 months ago) - Unofficial JavaScript SDK for Miniflux.
 
 </details>
