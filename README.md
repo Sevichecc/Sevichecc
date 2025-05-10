@@ -24,19 +24,19 @@ Embracing new freedom to create
   
 #### 👷 What I'm currently working on
 
-- [Sevichecc/Hugo-theme-bear](https://github.com/Sevichecc/Hugo-theme-bear) -  (1 month ago)
+- [sevi418/Hugo-theme-bear](https://github.com/sevi418/Hugo-theme-bear) -  (1 month ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 month ago)
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (1 month ago)
-- [Sevichecc/devSite](https://github.com/Sevichecc/devSite) -  (1 month ago)
-- [runyutech/rainyun-doc](https://github.com/runyutech/rainyun-doc) - 📚 雨云百科的源码，欢迎发起PR，一起来编写吧！ (2 months ago)
+- [sevi418/devSite](https://github.com/sevi418/devSite) -  (1 month ago)
+- [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (3 months ago)
   <br>
 #### 🌱 My latest projects
 
-- [Sevichecc/calendar-heatmap](https://github.com/Sevichecc/calendar-heatmap) - 
-- [Sevichecc/fish-french-greeting](https://github.com/Sevichecc/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji.
-- [Sevichecc/meow-one-page-resume](https://github.com/Sevichecc/meow-one-page-resume) - A cat-powered one-page resume template 🐱
-- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) - Unofficial JavaScript SDK for Miniflux.
-- [Sevichecc/games101](https://github.com/Sevichecc/games101) - 
+- [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) - 
+- [sevi418/fish-french-greeting](https://github.com/sevi418/fish-french-greeting) - Greets user with French word of the day from Transparent Language API and random kaomoji.
+- [sevi418/meow-one-page-resume](https://github.com/sevi418/meow-one-page-resume) - A cat-powered one-page resume template 🐱
+- [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) - Unofficial JavaScript SDK for Miniflux.
+- [sevi418/games101](https://github.com/sevi418/games101) - 
   
 
 #### 🔨 My recent Pull Requests
@@ -53,7 +53,7 @@ Embracing new freedom to create
 
 
 - [miniflux/v2](https://github.com/miniflux/v2) ([2.2.8](https://github.com/miniflux/v2/releases/tag/2.2.8), 2 weeks ago) - Minimalist and opinionated feed reader
-- [Sevichecc/miniflux-js](https://github.com/Sevichecc/miniflux-js) ([v0.0.6](https://github.com/Sevichecc/miniflux-js/releases/tag/v0.0.6), 4 months ago) - Unofficial JavaScript SDK for Miniflux.
+- [sevi418/miniflux-js](https://github.com/sevi418/miniflux-js) ([v0.0.6](https://github.com/sevi418/miniflux-js/releases/tag/v0.0.6), 5 months ago) - Unofficial JavaScript SDK for Miniflux.
 
 </details>
 
