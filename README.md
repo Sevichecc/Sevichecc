@@ -12,7 +12,7 @@ Embracing new freedom to create
 
 - Email: `hi[@]seviche.cc`
 - Matrix: [@seviche:kongwoo.icu](https://matrix.to/#/@seviche:kongwoo.icu)
-- Blog: [seviche.cc](https://seviche.cc) 
+- Blog: [sevic.me](https://sevic.me) 
   ( Please feel free to leave your comments :D 
 
 
