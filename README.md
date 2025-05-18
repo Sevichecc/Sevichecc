@@ -28,7 +28,7 @@ Embracing new freedom to create
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (1 month ago)
 - [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue &amp; Nuxt. (1 month ago)
 - [sevi418/devSite](https://github.com/sevi418/devSite) -  (1 month ago)
-- [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (3 months ago)
+- [sevi418/calendar-heatmap](https://github.com/sevi418/calendar-heatmap) -  (4 months ago)
   <br>
 #### 🌱 My latest projects
 
