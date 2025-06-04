@@ -42,7 +42,7 @@ Embracing new freedom to create
 #### 🔨 My recent Pull Requests
 
 
-- [Fix the `mastodon` extension](https://github.com/raycast/extensions/pull/18407) on [raycast/extensions](https://github.com/raycast/extensions) (1 month ago)
+- [Fix the `mastodon` extension](https://github.com/raycast/extensions/pull/18407) on [raycast/extensions](https://github.com/raycast/extensions) (2 months ago)
 - [Fix bun CLI](https://github.com/unovue/inspira-ui/pull/173) on [unovue/inspira-ui](https://github.com/unovue/inspira-ui) (2 months ago)
 - [Update about.md](https://github.com/bambooom/bambooom.github.io/pull/28) on [bambooom/bambooom.github.io](https://github.com/bambooom/bambooom.github.io) (5 months ago)
 - [Update friends.md](https://github.com/LitoMore/litomore.me/pull/1) on [LitoMore/litomore.me](https://github.com/LitoMore/litomore.me) (5 months ago)
